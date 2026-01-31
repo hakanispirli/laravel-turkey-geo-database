@@ -46,53 +46,38 @@ class TurkeyGeoSeeder extends Seeder
     protected function seedCities(string $dataPath, bool $showProgress): void
     {
         if ($showProgress) {
-            $this->command->task('Seeding cities', function () use ($dataPath) {
-                $jsonPath = $dataPath . '/cities.json';
+            $this->command->info('📍 Seeding cities...');
+        }
 
-                if (!File::exists($jsonPath)) {
-                    throw new \RuntimeException("Cities JSON file not found at: {$jsonPath}");
+        $jsonPath = $dataPath . '/cities.json';
+
+        if (!File::exists($jsonPath)) {
+            throw new \RuntimeException("Cities JSON file not found at: {$jsonPath}");
+        }
+
+        $data = json_decode(File::get($jsonPath), true);
+        $cities = $data['cities'] ?? [];
+
+        if (empty($cities)) {
+            throw new \RuntimeException('No cities data found in JSON file');
+        }
+
+        // Disable timestamps temporarily for performance
+        City::unguarded(function () use ($cities) {
+            DB::transaction(function () use ($cities) {
+                foreach ($cities as $city) {
+                    DB::table(config('turkey-geo.tables.cities', 'cities'))->insert([
+                        'id' => $city['id'],
+                        'name' => $city['name'],
+                        'created_at' => now(),
+                        'updated_at' => now(),
+                    ]);
                 }
-
-                $data = json_decode(File::get($jsonPath), true);
-                $cities = $data['cities'] ?? [];
-
-                if (empty($cities)) {
-                    throw new \RuntimeException('No cities data found in JSON file');
-                }
-
-                // Disable timestamps temporarily for performance
-                City::unguarded(function () use ($cities) {
-                    DB::transaction(function () use ($cities) {
-                        foreach ($cities as $city) {
-                            DB::table(config('turkey-geo.tables.cities', 'cities'))->insert([
-                                'id' => $city['id'],
-                                'name' => $city['name'],
-                                'created_at' => now(),
-                                'updated_at' => now(),
-                            ]);
-                        }
-                    });
-                });
-
-                return true;
             });
-        } else {
-            $jsonPath = $dataPath . '/cities.json';
-            $data = json_decode(File::get($jsonPath), true);
-            $cities = $data['cities'] ?? [];
+        });
 
-            City::unguarded(function () use ($cities) {
-                DB::transaction(function () use ($cities) {
-                    foreach ($cities as $city) {
-                        DB::table(config('turkey-geo.tables.cities', 'cities'))->insert([
-                            'id' => $city['id'],
-                            'name' => $city['name'],
-                            'created_at' => now(),
-                            'updated_at' => now(),
-                        ]);
-                    }
-                });
-            });
+        if ($showProgress) {
+            $this->command->info('  ✓ Inserted ' . count($cities) . ' cities');
         }
     }
 
@@ -102,64 +87,44 @@ class TurkeyGeoSeeder extends Seeder
     protected function seedDistricts(string $dataPath, bool $showProgress): void
     {
         if ($showProgress) {
-            $this->command->task('Seeding districts', function () use ($dataPath) {
-                $jsonPath = $dataPath . '/districts.json';
+            $this->command->info('🏘️  Seeding districts...');
+        }
 
-                if (!File::exists($jsonPath)) {
-                    throw new \RuntimeException("Districts JSON file not found at: {$jsonPath}");
+        $jsonPath = $dataPath . '/districts.json';
+
+        if (!File::exists($jsonPath)) {
+            throw new \RuntimeException("Districts JSON file not found at: {$jsonPath}");
+        }
+
+        $data = json_decode(File::get($jsonPath), true);
+        $districts = $data['districts'] ?? [];
+
+        if (empty($districts)) {
+            throw new \RuntimeException('No districts data found in JSON file');
+        }
+
+        // Disable timestamps temporarily for performance
+        District::unguarded(function () use ($districts) {
+            DB::transaction(function () use ($districts) {
+                // Insert in chunks for better performance
+                foreach (array_chunk($districts, 500) as $chunk) {
+                    $insertData = array_map(function ($district) {
+                        return [
+                            'id' => $district['id'],
+                            'city_id' => $district['city_id'],
+                            'name' => $district['name'],
+                            'created_at' => now(),
+                            'updated_at' => now(),
+                        ];
+                    }, $chunk);
+
+                    DB::table(config('turkey-geo.tables.districts', 'districts'))->insert($insertData);
                 }
-
-                $data = json_decode(File::get($jsonPath), true);
-                $districts = $data['districts'] ?? [];
-
-                if (empty($districts)) {
-                    throw new \RuntimeException('No districts data found in JSON file');
-                }
-
-                // Disable timestamps temporarily for performance
-                District::unguarded(function () use ($districts) {
-                    DB::transaction(function () use ($districts) {
-                        // Insert in chunks for better performance
-                        foreach (array_chunk($districts, 500) as $chunk) {
-                            $insertData = array_map(function ($district) {
-                                return [
-                                    'id' => $district['id'],
-                                    'city_id' => $district['city_id'],
-                                    'name' => $district['name'],
-                                    'created_at' => now(),
-                                    'updated_at' => now(),
-                                ];
-                            }, $chunk);
-
-                            DB::table(config('turkey-geo.tables.districts', 'districts'))->insert($insertData);
-                        }
-                    });
-                });
-
-                return true;
             });
-        } else {
-            $jsonPath = $dataPath . '/districts.json';
-            $data = json_decode(File::get($jsonPath), true);
-            $districts = $data['districts'] ?? [];
+        });
 
-            District::unguarded(function () use ($districts) {
-                DB::transaction(function () use ($districts) {
-                    foreach (array_chunk($districts, 500) as $chunk) {
-                        $insertData = array_map(function ($district) {
-                            return [
-                                'id' => $district['id'],
-                                'city_id' => $district['city_id'],
-                                'name' => $district['name'],
-                                'created_at' => now(),
-                                'updated_at' => now(),
-                            ];
-                        }, $chunk);
-
-                        DB::table(config('turkey-geo.tables.districts', 'districts'))->insert($insertData);
-                    }
-                });
-            });
+        if ($showProgress) {
+            $this->command->info('  ✓ Inserted ' . count($districts) . ' districts');
         }
     }
 
