@@ -1,0 +1,54 @@
+{
+    "name": "hakanispirli/laravel-turkey-geo-database",
+    "description": "Laravel package for Turkish geographic data (cities, districts, neighborhoods) based on PTT database. Includes 81 cities, 900+ districts, and 50,000+ neighborhoods with postal codes.",
+    "keywords": [
+        "laravel",
+        "turkey",
+        "turkish",
+        "geographic",
+        "address",
+        "il-ilce-mahalle",
+        "city",
+        "district",
+        "neighborhood",
+        "posta-kodu",
+        "zip-code",
+        "postal-code",
+        "turkiye-adres",
+        "ptt",
+        "seeder",
+        "geo",
+        "laravel-12",
+        "laravel-11"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://webmarka.com",
+    "authors": [
+        {
+            "name": "Hakan İspirli",
+            "email": "destek@webmarka.com",
+            "homepage": "https://webmarka.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^11.0|^12.0",
+        "illuminate/database": "^11.0|^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webmarka\\TurkeyGeo\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webmarka\\TurkeyGeo\\TurkeyGeoServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

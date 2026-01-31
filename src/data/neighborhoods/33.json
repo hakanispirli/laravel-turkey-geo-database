@@ -1,0 +1,5184 @@
+{
+  "neighborhoods": [
+    {
+      "id": 28589,
+      "district_id": 380,
+      "name": "AKBUDAK MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28590,
+      "district_id": 380,
+      "name": "AKKOÇ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28591,
+      "district_id": 380,
+      "name": "ALTINPINAR MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28592,
+      "district_id": 380,
+      "name": "AŞAĞIKARAVAİZ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28593,
+      "district_id": 380,
+      "name": "AŞAĞIYUFKALI MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28594,
+      "district_id": 380,
+      "name": "BAĞLICA MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28595,
+      "district_id": 380,
+      "name": "BAŞPINAR MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28596,
+      "district_id": 380,
+      "name": "BEYDİLİ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28597,
+      "district_id": 380,
+      "name": "ÇİFTEKOZ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28598,
+      "district_id": 380,
+      "name": "DAĞDANCIK MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28599,
+      "district_id": 380,
+      "name": "DOĞAN MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28600,
+      "district_id": 380,
+      "name": "DUMLUPINAR MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28601,
+      "district_id": 380,
+      "name": "ELİF MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28602,
+      "district_id": 380,
+      "name": "EMİRHAYDAR MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28603,
+      "district_id": 380,
+      "name": "ERENBAĞ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28604,
+      "district_id": 380,
+      "name": "ESENTEPE MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28605,
+      "district_id": 380,
+      "name": "ESKİALTINTAŞ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28606,
+      "district_id": 380,
+      "name": "FAKILI MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28607,
+      "district_id": 380,
+      "name": "FEVZİ ÇAKMAK MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28608,
+      "district_id": 380,
+      "name": "FISTIKLIDAĞ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28609,
+      "district_id": 380,
+      "name": "GELİNBUĞDAY MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28610,
+      "district_id": 380,
+      "name": "GÖKÇEPAYAM MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28611,
+      "district_id": 380,
+      "name": "GÜLLÜCE MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28612,
+      "district_id": 380,
+      "name": "GÜMÜŞPINAR MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28613,
+      "district_id": 380,
+      "name": "GÜZEY MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28614,
+      "district_id": 380,
+      "name": "HASANOĞLU MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28615,
+      "district_id": 380,
+      "name": "HİSAR MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28616,
+      "district_id": 380,
+      "name": "KALE MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28617,
+      "district_id": 380,
+      "name": "KARABABA MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28618,
+      "district_id": 380,
+      "name": "KARACAÖREN MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28619,
+      "district_id": 380,
+      "name": "KÖKLÜCE MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28620,
+      "district_id": 380,
+      "name": "KÖRHACIOBASI MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28621,
+      "district_id": 380,
+      "name": "KÜÇÜKLÜ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28622,
+      "district_id": 380,
+      "name": "MEHMET GÖKÇEK MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28623,
+      "district_id": 380,
+      "name": "MURATLI MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28624,
+      "district_id": 380,
+      "name": "NURETTİN MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28625,
+      "district_id": 380,
+      "name": "SARIKAYA MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28626,
+      "district_id": 380,
+      "name": "SARITEPE MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28627,
+      "district_id": 380,
+      "name": "ŞERİF PERİ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28628,
+      "district_id": 380,
+      "name": "TARLABAŞI MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28629,
+      "district_id": 380,
+      "name": "TAŞDEĞİRMEN MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28630,
+      "district_id": 380,
+      "name": "TURGUT ÖZAL MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28631,
+      "district_id": 380,
+      "name": "YAYLACIK MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28632,
+      "district_id": 380,
+      "name": "YENİ ALTINTAŞ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28633,
+      "district_id": 380,
+      "name": "YEŞİLOVA MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28634,
+      "district_id": 380,
+      "name": "YOLVEREN MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28635,
+      "district_id": 380,
+      "name": "YUKARIKARAVAİZ MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28636,
+      "district_id": 380,
+      "name": "YUKARIYUFKALI MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28637,
+      "district_id": 380,
+      "name": "ZİYARET MAH",
+      "area": "ARABAN",
+      "postal_code": "27650"
+    },
+    {
+      "id": 28638,
+      "district_id": 381,
+      "name": "AĞABEY MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28639,
+      "district_id": 381,
+      "name": "AĞALAROBASI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28640,
+      "district_id": 381,
+      "name": "AKINYOLU MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28641,
+      "district_id": 381,
+      "name": "ALACA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28642,
+      "district_id": 381,
+      "name": "ALTINÜZÜM MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28643,
+      "district_id": 381,
+      "name": "ARPALI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28644,
+      "district_id": 381,
+      "name": "ATATÜRK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28645,
+      "district_id": 381,
+      "name": "AYDINLIK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28646,
+      "district_id": 381,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28647,
+      "district_id": 381,
+      "name": "BAYRAKTEPE MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28648,
+      "district_id": 381,
+      "name": "BEYLER MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28649,
+      "district_id": 381,
+      "name": "BOĞAZİÇİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28650,
+      "district_id": 381,
+      "name": "BURHANİYE MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28651,
+      "district_id": 381,
+      "name": "BURUNSUZLAR MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28652,
+      "district_id": 381,
+      "name": "ÇAMLICA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28653,
+      "district_id": 381,
+      "name": "ÇERÇİLİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28654,
+      "district_id": 381,
+      "name": "CEVDETPAŞA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28655,
+      "district_id": 381,
+      "name": "ÇINARLI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28656,
+      "district_id": 381,
+      "name": "ÇOLAKLAR MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28657,
+      "district_id": 381,
+      "name": "ÇUBUK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28658,
+      "district_id": 381,
+      "name": "CUMHURİYET MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28659,
+      "district_id": 381,
+      "name": "DEĞİRMENCİK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28660,
+      "district_id": 381,
+      "name": "DERVİŞPAŞA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28661,
+      "district_id": 381,
+      "name": "ELBİSTANHÜYÜĞÜ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28662,
+      "district_id": 381,
+      "name": "ERENLER MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28663,
+      "district_id": 381,
+      "name": "ESENLER MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28664,
+      "district_id": 381,
+      "name": "FEVZİ ÇAKMAK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28665,
+      "district_id": 381,
+      "name": "FEVZİPAŞA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28666,
+      "district_id": 381,
+      "name": "GÖLTEPE MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28667,
+      "district_id": 381,
+      "name": "GÜLLÜHÜYÜK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28668,
+      "district_id": 381,
+      "name": "GÜNGÖREN MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28669,
+      "district_id": 381,
+      "name": "HACİ ALİ ÖZTÜRK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28670,
+      "district_id": 381,
+      "name": "HANAĞZI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28671,
+      "district_id": 381,
+      "name": "HASANLÖK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28672,
+      "district_id": 381,
+      "name": "HÜRRİYET MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28673,
+      "district_id": 381,
+      "name": "İDİLLİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28674,
+      "district_id": 381,
+      "name": "KABAKLAR MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28675,
+      "district_id": 381,
+      "name": "KALAYCIK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28676,
+      "district_id": 381,
+      "name": "KALE MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28677,
+      "district_id": 381,
+      "name": "KARACAÖREN MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28678,
+      "district_id": 381,
+      "name": "KARAKAYA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28679,
+      "district_id": 381,
+      "name": "KARAPINAR MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28680,
+      "district_id": 381,
+      "name": "KARAPOLAT MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28681,
+      "district_id": 381,
+      "name": "KAYABAŞI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28682,
+      "district_id": 381,
+      "name": "KAZIKLI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28683,
+      "district_id": 381,
+      "name": "KIRIKÇALI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28684,
+      "district_id": 381,
+      "name": "KOÇCAĞIZ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28685,
+      "district_id": 381,
+      "name": "KÖKLÜ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28686,
+      "district_id": 381,
+      "name": "KOZDERE MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28687,
+      "district_id": 381,
+      "name": "KUŞÇUMUSTAFA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28688,
+      "district_id": 381,
+      "name": "ORTAKLI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28689,
+      "district_id": 381,
+      "name": "ÖRTÜLÜ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28690,
+      "district_id": 381,
+      "name": "PINARBAŞI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28691,
+      "district_id": 381,
+      "name": "ŞAHMARAN MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28692,
+      "district_id": 381,
+      "name": "ŞERİKANLI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28693,
+      "district_id": 381,
+      "name": "SERİNEVLER MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28694,
+      "district_id": 381,
+      "name": "SULUMAĞARA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28695,
+      "district_id": 381,
+      "name": "TANDIR MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28696,
+      "district_id": 381,
+      "name": "TELLİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28697,
+      "district_id": 381,
+      "name": "TÜRKBAHÇE MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28698,
+      "district_id": 381,
+      "name": "YAĞIZLAR MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28699,
+      "district_id": 381,
+      "name": "YELLİBURUN MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28700,
+      "district_id": 381,
+      "name": "YENİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28701,
+      "district_id": 381,
+      "name": "YENİCELİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28702,
+      "district_id": 381,
+      "name": "YENİKÖY MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28703,
+      "district_id": 381,
+      "name": "YESEMEK MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28704,
+      "district_id": 381,
+      "name": "YEŞİLOVA MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28705,
+      "district_id": 381,
+      "name": "YEŞİLYURT MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28706,
+      "district_id": 381,
+      "name": "YOLBAŞI MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28707,
+      "district_id": 381,
+      "name": "YUKARIBİLENLER MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28708,
+      "district_id": 381,
+      "name": "ZİNCİRLİ MAH",
+      "area": "İSLAHİYE",
+      "postal_code": "27800"
+    },
+    {
+      "id": 28709,
+      "district_id": 382,
+      "name": "AKÇAKÖY MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28710,
+      "district_id": 382,
+      "name": "ALAÇALI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28711,
+      "district_id": 382,
+      "name": "ALAGÖZ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28712,
+      "district_id": 382,
+      "name": "ARIKDERE MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28713,
+      "district_id": 382,
+      "name": "AYYILDIZ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28714,
+      "district_id": 382,
+      "name": "BALABAN MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28715,
+      "district_id": 382,
+      "name": "BEŞKILIÇ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28716,
+      "district_id": 382,
+      "name": "ÇARŞI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28717,
+      "district_id": 382,
+      "name": "ÇİFTLİK MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28718,
+      "district_id": 382,
+      "name": "ECELER MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28719,
+      "district_id": 382,
+      "name": "ELİFOĞLU MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28720,
+      "district_id": 382,
+      "name": "ERENYOLU MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28721,
+      "district_id": 382,
+      "name": "ETİLER MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28722,
+      "district_id": 382,
+      "name": "GÜRÇAY MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28723,
+      "district_id": 382,
+      "name": "KARACURUN MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28724,
+      "district_id": 382,
+      "name": "KARANFİL MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28725,
+      "district_id": 382,
+      "name": "KARŞIYAKA MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28726,
+      "district_id": 382,
+      "name": "KELEKLİ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28727,
+      "district_id": 382,
+      "name": "KEPİRLER MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28728,
+      "district_id": 382,
+      "name": "KIVIRCIK MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28729,
+      "district_id": 382,
+      "name": "KORKMAZLAR MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28730,
+      "district_id": 382,
+      "name": "KURUYAZI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28731,
+      "district_id": 382,
+      "name": "LOJMANLAR MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28732,
+      "district_id": 382,
+      "name": "ÖNCÜLER MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28733,
+      "district_id": 382,
+      "name": "ÖRMETAŞ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28734,
+      "district_id": 382,
+      "name": "SAVAŞ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28735,
+      "district_id": 382,
+      "name": "ŞENLİK MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28736,
+      "district_id": 382,
+      "name": "SOYLU MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28737,
+      "district_id": 382,
+      "name": "SUBAĞI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28738,
+      "district_id": 382,
+      "name": "TEKETAŞI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28739,
+      "district_id": 382,
+      "name": "TOSUNLU MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28740,
+      "district_id": 382,
+      "name": "TÜRKYURDU MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28741,
+      "district_id": 382,
+      "name": "YARIMCA MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28742,
+      "district_id": 382,
+      "name": "YAŞAR MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28743,
+      "district_id": 382,
+      "name": "YAZIR MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28744,
+      "district_id": 382,
+      "name": "YEŞERTİ MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28745,
+      "district_id": 382,
+      "name": "YOLAĞZI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28746,
+      "district_id": 382,
+      "name": "YURTBAĞI MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28747,
+      "district_id": 382,
+      "name": "ZÜHRECİK MAH",
+      "area": "KARKAMIŞ",
+      "postal_code": "27880"
+    },
+    {
+      "id": 28748,
+      "district_id": 383,
+      "name": "ADAKLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28749,
+      "district_id": 383,
+      "name": "AKÇAKENT MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28750,
+      "district_id": 383,
+      "name": "AKKUYU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28751,
+      "district_id": 383,
+      "name": "ALAHACI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28752,
+      "district_id": 383,
+      "name": "ALTINDAĞ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28753,
+      "district_id": 383,
+      "name": "AŞAĞIBAYINDIR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28754,
+      "district_id": 383,
+      "name": "AŞAĞIÇARDAK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28755,
+      "district_id": 383,
+      "name": "ATATÜRK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28756,
+      "district_id": 383,
+      "name": "BAĞLICA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28757,
+      "district_id": 383,
+      "name": "BAHÇELİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28758,
+      "district_id": 383,
+      "name": "BALLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28759,
+      "district_id": 383,
+      "name": "BELKIS  MAH (MERKEZ MAH)",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28760,
+      "district_id": 383,
+      "name": "BELKIS MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28761,
+      "district_id": 383,
+      "name": "BOYLUCA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28762,
+      "district_id": 383,
+      "name": "BOZALİOĞLU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28763,
+      "district_id": 383,
+      "name": "ÇAKMAKTEPE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28764,
+      "district_id": 383,
+      "name": "ÇANAKÇI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28765,
+      "district_id": 383,
+      "name": "ÇATALCA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28766,
+      "district_id": 383,
+      "name": "CUMHURİYET MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28767,
+      "district_id": 383,
+      "name": "DAYIDAĞI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28768,
+      "district_id": 383,
+      "name": "DAZHÜYÜK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28769,
+      "district_id": 383,
+      "name": "DERNEK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28770,
+      "district_id": 383,
+      "name": "DOĞRULAR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28771,
+      "district_id": 383,
+      "name": "DURAKLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28772,
+      "district_id": 383,
+      "name": "DUTLU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28773,
+      "district_id": 383,
+      "name": "DÜZBAYIR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28774,
+      "district_id": 383,
+      "name": "EKİNCİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28775,
+      "district_id": 383,
+      "name": "ERENKÖY MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28776,
+      "district_id": 383,
+      "name": "ESKİKONAK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28777,
+      "district_id": 383,
+      "name": "EYÜP SULTAN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28778,
+      "district_id": 383,
+      "name": "FATİH SULTAN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28779,
+      "district_id": 383,
+      "name": "FEVKANİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28780,
+      "district_id": 383,
+      "name": "FEVZİ PAŞA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28781,
+      "district_id": 383,
+      "name": "FIRAT MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28782,
+      "district_id": 383,
+      "name": "GAZİLER MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28783,
+      "district_id": 383,
+      "name": "GEVENCE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28784,
+      "district_id": 383,
+      "name": "GÖKÇELİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28785,
+      "district_id": 383,
+      "name": "GÜDER MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28786,
+      "district_id": 383,
+      "name": "GÜLKAYA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28787,
+      "district_id": 383,
+      "name": "GÜMÜŞGÜN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28788,
+      "district_id": 383,
+      "name": "GÜNALTI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28789,
+      "district_id": 383,
+      "name": "GÜRBAŞAK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28790,
+      "district_id": 383,
+      "name": "GÜZELKÖY MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28791,
+      "district_id": 383,
+      "name": "HAFIZPAŞA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28792,
+      "district_id": 383,
+      "name": "HANCAĞIZ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28793,
+      "district_id": 383,
+      "name": "HAZIMOĞLU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28794,
+      "district_id": 383,
+      "name": "İKİZCE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28795,
+      "district_id": 383,
+      "name": "İNTEPE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28796,
+      "district_id": 383,
+      "name": "İSTASYON MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28797,
+      "district_id": 383,
+      "name": "İSTİKLAL MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28798,
+      "district_id": 383,
+      "name": "KALEKÖY MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28799,
+      "district_id": 383,
+      "name": "KAMIŞLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28800,
+      "district_id": 383,
+      "name": "KARABURÇ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28801,
+      "district_id": 383,
+      "name": "KARŞIYAKA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28802,
+      "district_id": 383,
+      "name": "KAYALAR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28803,
+      "district_id": 383,
+      "name": "KEKLİK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28804,
+      "district_id": 383,
+      "name": "KESİKTAŞ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28805,
+      "district_id": 383,
+      "name": "KIBRIS MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28806,
+      "district_id": 383,
+      "name": "KIRAÇGÜLÜ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28807,
+      "district_id": 383,
+      "name": "KIRATLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28808,
+      "district_id": 383,
+      "name": "KIZILCAKENT MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28809,
+      "district_id": 383,
+      "name": "KIZILİN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28810,
+      "district_id": 383,
+      "name": "KOCATEPE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28811,
+      "district_id": 383,
+      "name": "KORUCAK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28812,
+      "district_id": 383,
+      "name": "KÖSELER MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28813,
+      "district_id": 383,
+      "name": "KUMLA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28814,
+      "district_id": 383,
+      "name": "KURUCAHÜYÜK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28815,
+      "district_id": 383,
+      "name": "MAĞARACIK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28816,
+      "district_id": 383,
+      "name": "MEHMETOBASI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28817,
+      "district_id": 383,
+      "name": "MENDERES MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28818,
+      "district_id": 383,
+      "name": "MERCANLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28819,
+      "district_id": 383,
+      "name": "MEVLANA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28820,
+      "district_id": 383,
+      "name": "MİHRAP MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28821,
+      "district_id": 383,
+      "name": "MİMAR SİNAN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28822,
+      "district_id": 383,
+      "name": "NAHIRTEPE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28823,
+      "district_id": 383,
+      "name": "NAMIK KEMAL MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28824,
+      "district_id": 383,
+      "name": "NİZİP OSB MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28825,
+      "district_id": 383,
+      "name": "ÖZYURT MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28826,
+      "district_id": 383,
+      "name": "PAZAR CAMİİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28827,
+      "district_id": 383,
+      "name": "SAHA MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28828,
+      "district_id": 383,
+      "name": "ŞAHİNBEY MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28829,
+      "district_id": 383,
+      "name": "SALKIM MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28830,
+      "district_id": 383,
+      "name": "SAMANDÖKEN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28831,
+      "district_id": 383,
+      "name": "SAMANLI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28832,
+      "district_id": 383,
+      "name": "SARAY MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28833,
+      "district_id": 383,
+      "name": "SARIKOÇ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28834,
+      "district_id": 383,
+      "name": "SEKİLİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28835,
+      "district_id": 383,
+      "name": "ŞIHLAR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28836,
+      "district_id": 383,
+      "name": "SÖĞÜTLÜ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28837,
+      "district_id": 383,
+      "name": "SUBOYU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28838,
+      "district_id": 383,
+      "name": "SULTAN ABDÜLHAMİT MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28839,
+      "district_id": 383,
+      "name": "TAHTANİ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28840,
+      "district_id": 383,
+      "name": "TANIR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28841,
+      "district_id": 383,
+      "name": "TATLICAK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28842,
+      "district_id": 383,
+      "name": "TOSUNLU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28843,
+      "district_id": 383,
+      "name": "TOYDEMİR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28844,
+      "district_id": 383,
+      "name": "TULUKTAŞ MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28845,
+      "district_id": 383,
+      "name": "TURLU MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28846,
+      "district_id": 383,
+      "name": "TURNALI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28847,
+      "district_id": 383,
+      "name": "ULUYATIR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28848,
+      "district_id": 383,
+      "name": "YAĞCILAR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28849,
+      "district_id": 383,
+      "name": "YAĞMURALAN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28850,
+      "district_id": 383,
+      "name": "YARIMTEPE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28851,
+      "district_id": 383,
+      "name": "YENİYAPAN MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28852,
+      "district_id": 383,
+      "name": "YENİYAZI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28853,
+      "district_id": 383,
+      "name": "YEŞİLEVLER MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28854,
+      "district_id": 383,
+      "name": "YOLÇATI MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28855,
+      "district_id": 383,
+      "name": "YUKARIBAYINDIR MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28856,
+      "district_id": 383,
+      "name": "YUKARIÇARDAK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28857,
+      "district_id": 383,
+      "name": "YUNUS EMRE MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28858,
+      "district_id": 383,
+      "name": "ZEYTİNLİK MAH",
+      "area": "NİZİP",
+      "postal_code": "27700"
+    },
+    {
+      "id": 28859,
+      "district_id": 384,
+      "name": "ALPASLAN TÜRKEŞ MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28860,
+      "district_id": 384,
+      "name": "ALTINOVA MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28861,
+      "district_id": 384,
+      "name": "ASLANLI MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28862,
+      "district_id": 384,
+      "name": "ATAKÖY MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28863,
+      "district_id": 384,
+      "name": "ATATÜRK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28864,
+      "district_id": 384,
+      "name": "ATMALI MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28865,
+      "district_id": 384,
+      "name": "BADEMLİ MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28866,
+      "district_id": 384,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28867,
+      "district_id": 384,
+      "name": "BALIKALAN MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28868,
+      "district_id": 384,
+      "name": "BAŞPINAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28869,
+      "district_id": 384,
+      "name": "BELPINAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28870,
+      "district_id": 384,
+      "name": "ÇAKMAK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28871,
+      "district_id": 384,
+      "name": "DEMİRLER MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28872,
+      "district_id": 384,
+      "name": "DURMUŞLAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28873,
+      "district_id": 384,
+      "name": "EMİRLER MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28874,
+      "district_id": 384,
+      "name": "ESENYURT MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28875,
+      "district_id": 384,
+      "name": "FATİH MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28876,
+      "district_id": 384,
+      "name": "GEDİKLİ MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28877,
+      "district_id": 384,
+      "name": "GÖKÇEDERE MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28878,
+      "district_id": 384,
+      "name": "GÖZLÜHÜYÜK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28879,
+      "district_id": 384,
+      "name": "HAMİDİYE MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28880,
+      "district_id": 384,
+      "name": "HİSAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28881,
+      "district_id": 384,
+      "name": "İÇERİSU MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28882,
+      "district_id": 384,
+      "name": "İKİZKUYU MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28883,
+      "district_id": 384,
+      "name": "İNCEGEDİK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28884,
+      "district_id": 384,
+      "name": "İNCİRLİ MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28885,
+      "district_id": 384,
+      "name": "KARABURÇLU MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28886,
+      "district_id": 384,
+      "name": "KARTAL MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28887,
+      "district_id": 384,
+      "name": "KIRIŞKAL MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28888,
+      "district_id": 384,
+      "name": "KIRKPINAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28889,
+      "district_id": 384,
+      "name": "KÖMÜRLER MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28890,
+      "district_id": 384,
+      "name": "KURUDERE MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28891,
+      "district_id": 384,
+      "name": "KUZOLUK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28892,
+      "district_id": 384,
+      "name": "MEHMET AKİF ERSOY MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28893,
+      "district_id": 384,
+      "name": "MESTHÜYÜK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28894,
+      "district_id": 384,
+      "name": "NAİMLER MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28895,
+      "district_id": 384,
+      "name": "NOGAYLAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28896,
+      "district_id": 384,
+      "name": "OLUCAK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28897,
+      "district_id": 384,
+      "name": "SAKÇAGÖZÜ MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28898,
+      "district_id": 384,
+      "name": "ŞATIRHÜYÜK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28899,
+      "district_id": 384,
+      "name": "SAYBURUN MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28900,
+      "district_id": 384,
+      "name": "TANDIRLI MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28901,
+      "district_id": 384,
+      "name": "TERKEN MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28902,
+      "district_id": 384,
+      "name": "TORUNLAR MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28903,
+      "district_id": 384,
+      "name": "TÜLLÜCE MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28904,
+      "district_id": 384,
+      "name": "YAVUZSELİM MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28905,
+      "district_id": 384,
+      "name": "YAYLACIK MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28906,
+      "district_id": 384,
+      "name": "YENİ MAH",
+      "area": "NURDAĞI",
+      "postal_code": "27840"
+    },
+    {
+      "id": 28907,
+      "district_id": 385,
+      "name": "ACER MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28908,
+      "district_id": 385,
+      "name": "AKÇAMEZRA MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28909,
+      "district_id": 385,
+      "name": "ALTINYURT MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28910,
+      "district_id": 385,
+      "name": "AMBARCIK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28911,
+      "district_id": 385,
+      "name": "ARSLANLI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28912,
+      "district_id": 385,
+      "name": "AŞAĞI GÜNEYSE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28913,
+      "district_id": 385,
+      "name": "AŞAĞI YENİYAPAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28914,
+      "district_id": 385,
+      "name": "ASMACIK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28915,
+      "district_id": 385,
+      "name": "AYDINKAYA MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28916,
+      "district_id": 385,
+      "name": "BELÖREN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28917,
+      "district_id": 385,
+      "name": "BEŞDELİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28918,
+      "district_id": 385,
+      "name": "BULDUK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28919,
+      "district_id": 385,
+      "name": "BÜYÜKKARACAVİRAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28920,
+      "district_id": 385,
+      "name": "ÇATALÇAM MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28921,
+      "district_id": 385,
+      "name": "ÇATALSU MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28922,
+      "district_id": 385,
+      "name": "ÇAVUŞBAŞI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28923,
+      "district_id": 385,
+      "name": "ÇAYBAŞI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28924,
+      "district_id": 385,
+      "name": "ÇAYBAŞI OSB MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28925,
+      "district_id": 385,
+      "name": "ÇAYBEYİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28926,
+      "district_id": 385,
+      "name": "CUMHURİYET MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28927,
+      "district_id": 385,
+      "name": "DEMİRKONAK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28928,
+      "district_id": 385,
+      "name": "DERO KÜÇÜKKARACAVİRAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28929,
+      "district_id": 385,
+      "name": "DEVEHÜYÜĞÜ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28930,
+      "district_id": 385,
+      "name": "DİBECİK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28931,
+      "district_id": 385,
+      "name": "DİKMETAŞ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28932,
+      "district_id": 385,
+      "name": "DİREKLİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28933,
+      "district_id": 385,
+      "name": "DOĞANPINAR MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28934,
+      "district_id": 385,
+      "name": "DOKUZYOL MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28935,
+      "district_id": 385,
+      "name": "DURUKÖY MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28936,
+      "district_id": 385,
+      "name": "DUTLUCA MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28937,
+      "district_id": 385,
+      "name": "EKİNVEREN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28938,
+      "district_id": 385,
+      "name": "ERMİŞ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28939,
+      "district_id": 385,
+      "name": "FATİH MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28940,
+      "district_id": 385,
+      "name": "GEBE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28941,
+      "district_id": 385,
+      "name": "GEDİK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28942,
+      "district_id": 385,
+      "name": "GÜLLÜK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28943,
+      "district_id": 385,
+      "name": "GÜNDOĞAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28944,
+      "district_id": 385,
+      "name": "GÜRSU MAH",
+      "area": "YEŞİLDERE",
+      "postal_code": "27920"
+    },
+    {
+      "id": 28945,
+      "district_id": 385,
+      "name": "GÜVEÇLİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28946,
+      "district_id": 385,
+      "name": "GÜZELCE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28947,
+      "district_id": 385,
+      "name": "HACAR MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28948,
+      "district_id": 385,
+      "name": "HATUNLU MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28949,
+      "district_id": 385,
+      "name": "HÖTOĞLU MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28950,
+      "district_id": 385,
+      "name": "HÜRRİYET MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28951,
+      "district_id": 385,
+      "name": "İKİZKUYU MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28952,
+      "district_id": 385,
+      "name": "İNCEYOL MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28953,
+      "district_id": 385,
+      "name": "İNKILAP MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28954,
+      "district_id": 385,
+      "name": "İNÖNÜ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28955,
+      "district_id": 385,
+      "name": "KABACAAĞAÇ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28956,
+      "district_id": 385,
+      "name": "KARABURUN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28957,
+      "district_id": 385,
+      "name": "KARADİBEK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28958,
+      "district_id": 385,
+      "name": "KARAMAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28959,
+      "district_id": 385,
+      "name": "KARATAŞ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28960,
+      "district_id": 385,
+      "name": "KAŞYOLU MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28961,
+      "district_id": 385,
+      "name": "KAVUNLUK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28962,
+      "district_id": 385,
+      "name": "KAYACIK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28963,
+      "district_id": 385,
+      "name": "KAYALIPINAR MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28964,
+      "district_id": 385,
+      "name": "KEÇİKUYUSU MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28965,
+      "district_id": 385,
+      "name": "KEÇİLİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28966,
+      "district_id": 385,
+      "name": "KERSENTAŞ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28967,
+      "district_id": 385,
+      "name": "KILAVUZ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28968,
+      "district_id": 385,
+      "name": "KOÇAKLAR MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28969,
+      "district_id": 385,
+      "name": "KÖRKÜN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28970,
+      "district_id": 385,
+      "name": "KOVANLI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28971,
+      "district_id": 385,
+      "name": "KURTULUŞ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28972,
+      "district_id": 385,
+      "name": "KURUÇAY MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28973,
+      "district_id": 385,
+      "name": "MİMAR SİNAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28974,
+      "district_id": 385,
+      "name": "OĞUZLAR MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28975,
+      "district_id": 385,
+      "name": "ŞAHİNBEY MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28976,
+      "district_id": 385,
+      "name": "SAZGIN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28977,
+      "district_id": 385,
+      "name": "SERGİLİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28978,
+      "district_id": 385,
+      "name": "SEVİNDİ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28979,
+      "district_id": 385,
+      "name": "ŞIH KÜÇÜKKARACAVİRAN MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28980,
+      "district_id": 385,
+      "name": "SUBAŞI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28981,
+      "district_id": 385,
+      "name": "SÜTLÜCE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28982,
+      "district_id": 385,
+      "name": "TAŞÇANAK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28983,
+      "district_id": 385,
+      "name": "TAŞLI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28984,
+      "district_id": 385,
+      "name": "TAŞYAZI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28985,
+      "district_id": 385,
+      "name": "TINAZDERE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28986,
+      "district_id": 385,
+      "name": "TÜZEL MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28987,
+      "district_id": 385,
+      "name": "ÜÇDAMLAR MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28988,
+      "district_id": 385,
+      "name": "ÜÇKUBBE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28989,
+      "district_id": 385,
+      "name": "UĞUROVA MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28990,
+      "district_id": 385,
+      "name": "ULAŞLI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28991,
+      "district_id": 385,
+      "name": "YAKACIK MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28992,
+      "district_id": 385,
+      "name": "YALNIZBAĞ MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28993,
+      "district_id": 385,
+      "name": "YAZILI MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28994,
+      "district_id": 385,
+      "name": "YENİ CUMHURİYET MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28995,
+      "district_id": 385,
+      "name": "YENİKÖY MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28996,
+      "district_id": 385,
+      "name": "YEŞİLDERE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28997,
+      "district_id": 385,
+      "name": "YEŞİLTEPE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28998,
+      "district_id": 385,
+      "name": "YUKARIGÜNEYSE MAH",
+      "area": "OĞUZELİ",
+      "postal_code": "27900"
+    },
+    {
+      "id": 28999,
+      "district_id": 386,
+      "name": "23 NİSAN MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29000,
+      "district_id": 386,
+      "name": "25 ARALIK MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29001,
+      "district_id": 386,
+      "name": "60.YIL MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29002,
+      "district_id": 386,
+      "name": "75.YIL MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29003,
+      "district_id": 386,
+      "name": "ABDÜLHAMİD HAN MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29004,
+      "district_id": 386,
+      "name": "AKBAYIR MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29005,
+      "district_id": 386,
+      "name": "AKBULUT MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29006,
+      "district_id": 386,
+      "name": "AKKENT MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29007,
+      "district_id": 386,
+      "name": "AKPINAR MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29008,
+      "district_id": 386,
+      "name": "AKYAZI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29009,
+      "district_id": 386,
+      "name": "AKYOL MAH",
+      "area": "ALAYBEY",
+      "postal_code": "27220"
+    },
+    {
+      "id": 29010,
+      "district_id": 386,
+      "name": "ALAYBEY MAH",
+      "area": "ALAYBEY",
+      "postal_code": "27220"
+    },
+    {
+      "id": 29011,
+      "district_id": 386,
+      "name": "ALİBABA MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29012,
+      "district_id": 386,
+      "name": "ALLEBEN MAH",
+      "area": "ALAYBEY",
+      "postal_code": "27220"
+    },
+    {
+      "id": 29013,
+      "district_id": 386,
+      "name": "ALMALI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29014,
+      "district_id": 386,
+      "name": "AYDINBABA MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29015,
+      "district_id": 386,
+      "name": "BAĞLARBAŞI MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29016,
+      "district_id": 386,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "ALAYBEY",
+      "postal_code": "27220"
+    },
+    {
+      "id": 29017,
+      "district_id": 386,
+      "name": "BARAK MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29018,
+      "district_id": 386,
+      "name": "BAYRAMLI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29019,
+      "district_id": 386,
+      "name": "BEKİRBEY MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29020,
+      "district_id": 386,
+      "name": "BEKİŞLİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29021,
+      "district_id": 386,
+      "name": "BELENKÖY MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29022,
+      "district_id": 386,
+      "name": "BEŞKUYU MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29023,
+      "district_id": 386,
+      "name": "BEŞTEPE MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29024,
+      "district_id": 386,
+      "name": "BEY MAH",
+      "area": "ALAYBEY",
+      "postal_code": "27220"
+    },
+    {
+      "id": 29025,
+      "district_id": 386,
+      "name": "BEYAZLAR MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29026,
+      "district_id": 386,
+      "name": "BEYDİLLİ MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29027,
+      "district_id": 386,
+      "name": "BİNEVLER MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29028,
+      "district_id": 386,
+      "name": "BOSTANCIK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29029,
+      "district_id": 386,
+      "name": "BOYACI MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29030,
+      "district_id": 386,
+      "name": "BOZCA MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29031,
+      "district_id": 386,
+      "name": "BOZOKLAR MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29032,
+      "district_id": 386,
+      "name": "BÜLBÜLZADE MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29033,
+      "district_id": 386,
+      "name": "BURÇ ESENTEPE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29034,
+      "district_id": 386,
+      "name": "BURÇ KARAKUYU MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29035,
+      "district_id": 386,
+      "name": "CABİ MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29036,
+      "district_id": 386,
+      "name": "ÇAĞDAŞ MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29037,
+      "district_id": 386,
+      "name": "ÇAMLICA MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29038,
+      "district_id": 386,
+      "name": "ÇAMTEPE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29039,
+      "district_id": 386,
+      "name": "ÇAPALI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29040,
+      "district_id": 386,
+      "name": "CEBELER MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29041,
+      "district_id": 386,
+      "name": "CENGİZ TOPEL MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29042,
+      "district_id": 386,
+      "name": "CEVİZLİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29043,
+      "district_id": 386,
+      "name": "ÇEVRELİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29044,
+      "district_id": 386,
+      "name": "ÇİMENLİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29045,
+      "district_id": 386,
+      "name": "ÇÖREKLİK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29046,
+      "district_id": 386,
+      "name": "ÇUBUKDİKEN MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29047,
+      "district_id": 386,
+      "name": "CUMHURİYET MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29048,
+      "district_id": 386,
+      "name": "DAMLACIK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29049,
+      "district_id": 386,
+      "name": "DENİZ MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29050,
+      "district_id": 386,
+      "name": "DEREDÜZÜ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29051,
+      "district_id": 386,
+      "name": "DOĞANCA MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29052,
+      "district_id": 386,
+      "name": "DOKUR MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29053,
+      "district_id": 386,
+      "name": "DUMLUPINAR MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29054,
+      "district_id": 386,
+      "name": "DURANTAŞ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29055,
+      "district_id": 386,
+      "name": "DÜZTEPE MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29056,
+      "district_id": 386,
+      "name": "EKİNLİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29057,
+      "district_id": 386,
+      "name": "ERTUĞRULGAZİ MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29058,
+      "district_id": 386,
+      "name": "FİDANLIK MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29059,
+      "district_id": 386,
+      "name": "FIRAT MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29060,
+      "district_id": 386,
+      "name": "GAZİTEPE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29061,
+      "district_id": 386,
+      "name": "GENEYİK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29062,
+      "district_id": 386,
+      "name": "GERCİĞİN MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29063,
+      "district_id": 386,
+      "name": "GEYLANİ MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29064,
+      "district_id": 386,
+      "name": "GÜLLÜCE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29065,
+      "district_id": 386,
+      "name": "GÜLPINAR MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29066,
+      "district_id": 386,
+      "name": "GÜMÜŞTEKİN MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29067,
+      "district_id": 386,
+      "name": "GÜNEŞ MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29068,
+      "district_id": 386,
+      "name": "GÜNEYKENT MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29069,
+      "district_id": 386,
+      "name": "GÜZELVADİ MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29070,
+      "district_id": 386,
+      "name": "HACIKÖPRÜ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29071,
+      "district_id": 386,
+      "name": "HACIKÖY MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29072,
+      "district_id": 386,
+      "name": "HOŞGÖR MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29073,
+      "district_id": 386,
+      "name": "İBN-İ SİNA MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29074,
+      "district_id": 386,
+      "name": "İNÖNÜ MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29075,
+      "district_id": 386,
+      "name": "İSTİKLAL MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29076,
+      "district_id": 386,
+      "name": "KABARCIK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29077,
+      "district_id": 386,
+      "name": "KAHVELİPINAR MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29078,
+      "district_id": 386,
+      "name": "KALE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29079,
+      "district_id": 386,
+      "name": "KALEBOYNU MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29080,
+      "district_id": 386,
+      "name": "KAPÇAĞIZ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29081,
+      "district_id": 386,
+      "name": "KARAÇOMAK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29082,
+      "district_id": 386,
+      "name": "KARAGÖZ MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29083,
+      "district_id": 386,
+      "name": "KARATAŞ MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29084,
+      "district_id": 386,
+      "name": "KARAYILAN MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29085,
+      "district_id": 386,
+      "name": "KAVAKLIK MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29086,
+      "district_id": 386,
+      "name": "KAVŞAK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29087,
+      "district_id": 386,
+      "name": "KAZIKLI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29088,
+      "district_id": 386,
+      "name": "KEPENEK MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29089,
+      "district_id": 386,
+      "name": "KERER MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29090,
+      "district_id": 386,
+      "name": "KIBRIS MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29091,
+      "district_id": 386,
+      "name": "KILINÇOĞLU MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29092,
+      "district_id": 386,
+      "name": "KİLLİK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29093,
+      "district_id": 386,
+      "name": "KOLEJTEPE MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29094,
+      "district_id": 386,
+      "name": "KONAK MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29095,
+      "district_id": 386,
+      "name": "KOZLUCA MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29096,
+      "district_id": 386,
+      "name": "KÜÇÜKKIZILHİSAR MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29097,
+      "district_id": 386,
+      "name": "KÜLECİK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29098,
+      "district_id": 386,
+      "name": "KUMRUHAMURKESEN MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29099,
+      "district_id": 386,
+      "name": "KURBANBABA MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29100,
+      "district_id": 386,
+      "name": "KÜRÜM MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29101,
+      "district_id": 386,
+      "name": "KUŞÇU MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29102,
+      "district_id": 386,
+      "name": "MALAZGİRT MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29103,
+      "district_id": 386,
+      "name": "MAVİKENT MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29104,
+      "district_id": 386,
+      "name": "MİMAR SİNAN MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29105,
+      "district_id": 386,
+      "name": "MORCALI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29106,
+      "district_id": 386,
+      "name": "MUHACİROSMAN MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29107,
+      "district_id": 386,
+      "name": "NARLICA MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29108,
+      "district_id": 386,
+      "name": "NARLITEPE MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29109,
+      "district_id": 386,
+      "name": "NURİPAZARBAŞI MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29110,
+      "district_id": 386,
+      "name": "OCAKLAR MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29111,
+      "district_id": 386,
+      "name": "ÖĞRETMENEVLERİ MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29112,
+      "district_id": 386,
+      "name": "ONUR MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29113,
+      "district_id": 386,
+      "name": "ORTAKLAR MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29114,
+      "district_id": 386,
+      "name": "OSMANLI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29115,
+      "district_id": 386,
+      "name": "OZANLI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29116,
+      "district_id": 386,
+      "name": "PERİLİKAYA MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29117,
+      "district_id": 386,
+      "name": "SAÇAKLI MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29118,
+      "district_id": 386,
+      "name": "ŞAHİNBEY MÜLK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29119,
+      "district_id": 386,
+      "name": "ŞAHİNTEPE MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29120,
+      "district_id": 386,
+      "name": "ŞAHVELİ MAH",
+      "area": "ALAYBEY",
+      "postal_code": "27220"
+    },
+    {
+      "id": 29121,
+      "district_id": 386,
+      "name": "SARIBAŞAK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29122,
+      "district_id": 386,
+      "name": "SARIKAYA MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29123,
+      "district_id": 386,
+      "name": "SARISALKIM MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29124,
+      "district_id": 386,
+      "name": "SARIT MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29125,
+      "district_id": 386,
+      "name": "SAVCILI MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29126,
+      "district_id": 386,
+      "name": "SELÇUKLU MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29127,
+      "district_id": 386,
+      "name": "ŞENYURT MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29128,
+      "district_id": 386,
+      "name": "SERİNCE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29129,
+      "district_id": 386,
+      "name": "SERİNEVLER MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29130,
+      "district_id": 386,
+      "name": "SIRASÖĞÜT MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29131,
+      "district_id": 386,
+      "name": "SULTAN SELİM MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29132,
+      "district_id": 386,
+      "name": "SUYABATMAZ MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29133,
+      "district_id": 386,
+      "name": "TEKSTİLKENT MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29134,
+      "district_id": 386,
+      "name": "TİYEKLİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29135,
+      "district_id": 386,
+      "name": "TÖRELİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29136,
+      "district_id": 386,
+      "name": "TÜRKMENLER MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29137,
+      "district_id": 386,
+      "name": "TÜRKÖZÜ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29138,
+      "district_id": 386,
+      "name": "TÜRKTEPE MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29139,
+      "district_id": 386,
+      "name": "ÜÇOKLAR MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29140,
+      "district_id": 386,
+      "name": "UFACIK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29141,
+      "district_id": 386,
+      "name": "UĞURTEPE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29142,
+      "district_id": 386,
+      "name": "ULAŞ MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29143,
+      "district_id": 386,
+      "name": "ÜNALDI MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29144,
+      "district_id": 386,
+      "name": "VATAN MAH",
+      "area": "PERİLİKAYA",
+      "postal_code": "27100"
+    },
+    {
+      "id": 29145,
+      "district_id": 386,
+      "name": "YAĞDÖVER MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29146,
+      "district_id": 386,
+      "name": "YAMAÇTEPE MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29147,
+      "district_id": 386,
+      "name": "YAVUZLAR MAH",
+      "area": "DÜZTEPE",
+      "postal_code": "27300"
+    },
+    {
+      "id": 29148,
+      "district_id": 386,
+      "name": "YAYCI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29149,
+      "district_id": 386,
+      "name": "YAYLACIK MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29150,
+      "district_id": 386,
+      "name": "YAZIBAĞI MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29151,
+      "district_id": 386,
+      "name": "YAZICIK MAH",
+      "area": "TABAKHANE",
+      "postal_code": "27400"
+    },
+    {
+      "id": 29152,
+      "district_id": 386,
+      "name": "YEDİTEPE MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29153,
+      "district_id": 386,
+      "name": "YENİKÖY MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29154,
+      "district_id": 386,
+      "name": "YEŞİLEVLER MAH",
+      "area": "KONAK",
+      "postal_code": "27070"
+    },
+    {
+      "id": 29155,
+      "district_id": 386,
+      "name": "YEŞİLKENT MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29156,
+      "district_id": 386,
+      "name": "YEŞİLKÖY MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29157,
+      "district_id": 386,
+      "name": "YEŞİLPINAR MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29158,
+      "district_id": 386,
+      "name": "YEŞİLYURT MAH",
+      "area": "KARATAŞ",
+      "postal_code": "27470"
+    },
+    {
+      "id": 29159,
+      "district_id": 386,
+      "name": "YIĞMATEPE MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29160,
+      "district_id": 386,
+      "name": "YOĞUNTAŞ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29161,
+      "district_id": 386,
+      "name": "YUKARIBAYIR MAH",
+      "area": "HOŞGÖR",
+      "postal_code": "27200"
+    },
+    {
+      "id": 29162,
+      "district_id": 386,
+      "name": "ZEYTİNLİ MAH",
+      "area": "ŞAHİNBEY",
+      "postal_code": "27010"
+    },
+    {
+      "id": 29163,
+      "district_id": 387,
+      "name": "15 TEMMUZ MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29164,
+      "district_id": 387,
+      "name": "29 EKİM MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29165,
+      "district_id": 387,
+      "name": "8 ŞUBAT MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29166,
+      "district_id": 387,
+      "name": "ACAROBA MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29167,
+      "district_id": 387,
+      "name": "AĞAÇLIBOYNO MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29168,
+      "district_id": 387,
+      "name": "AKÇABURÇ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29169,
+      "district_id": 387,
+      "name": "AKÇAGÖZE MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29170,
+      "district_id": 387,
+      "name": "AKTOPRAK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29171,
+      "district_id": 387,
+      "name": "AKTOPRAK SB MAH",
+      "area": "ORGANİZE",
+      "postal_code": "27620"
+    },
+    {
+      "id": 29172,
+      "district_id": 387,
+      "name": "ALPASLAN MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29173,
+      "district_id": 387,
+      "name": "AŞAĞI ARIL MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29174,
+      "district_id": 387,
+      "name": "ATABEK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29175,
+      "district_id": 387,
+      "name": "ATALAR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29176,
+      "district_id": 387,
+      "name": "ATATÜRK MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29177,
+      "district_id": 387,
+      "name": "BAĞBAŞI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29178,
+      "district_id": 387,
+      "name": "BAŞPINAR MAH (ORGANİZE MAH)OSB",
+      "area": "ORGANİZE",
+      "postal_code": "27620"
+    },
+    {
+      "id": 29179,
+      "district_id": 387,
+      "name": "BATIKENT MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29180,
+      "district_id": 387,
+      "name": "BATTAL MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29181,
+      "district_id": 387,
+      "name": "BAYATLI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29182,
+      "district_id": 387,
+      "name": "BEDİRKÖY MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29183,
+      "district_id": 387,
+      "name": "BELKIZ MAH",
+      "area": "GAZİKENT",
+      "postal_code": "27580"
+    },
+    {
+      "id": 29184,
+      "district_id": 387,
+      "name": "BEYKENT MAH",
+      "area": "GAZİKENT",
+      "postal_code": "27580"
+    },
+    {
+      "id": 29185,
+      "district_id": 387,
+      "name": "BEYLERBEYİ MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29186,
+      "district_id": 387,
+      "name": "BEYRELİ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29187,
+      "district_id": 387,
+      "name": "BİLEK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29188,
+      "district_id": 387,
+      "name": "BOYNO MAH",
+      "area": "KARŞIYAKA",
+      "postal_code": "27500"
+    },
+    {
+      "id": 29189,
+      "district_id": 387,
+      "name": "BOZOBASI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29190,
+      "district_id": 387,
+      "name": "BURAK MAH",
+      "area": "GAZİKENT",
+      "postal_code": "27580"
+    },
+    {
+      "id": 29191,
+      "district_id": 387,
+      "name": "BÜYÜKPINAR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29192,
+      "district_id": 387,
+      "name": "ÇAĞKUYU MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29193,
+      "district_id": 387,
+      "name": "ÇAMLITEPE MAH",
+      "area": "GAZİKENT",
+      "postal_code": "27580"
+    },
+    {
+      "id": 29194,
+      "district_id": 387,
+      "name": "CERİTYENİYAPAN MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29195,
+      "district_id": 387,
+      "name": "ÇIKSORUT MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29196,
+      "district_id": 387,
+      "name": "DEĞİRMİÇEM MAH",
+      "area": "İNCİLİPINAR",
+      "postal_code": "27090"
+    },
+    {
+      "id": 29197,
+      "district_id": 387,
+      "name": "DIMIŞKILI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29198,
+      "district_id": 387,
+      "name": "DÜLÜK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29199,
+      "district_id": 387,
+      "name": "DÜNDARLI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29200,
+      "district_id": 387,
+      "name": "DURNALIK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29201,
+      "district_id": 387,
+      "name": "ERİKLİ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29202,
+      "district_id": 387,
+      "name": "ESKİŞARKAYA MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29203,
+      "district_id": 387,
+      "name": "EYDİBABA MAH",
+      "area": "KARŞIYAKA",
+      "postal_code": "27500"
+    },
+    {
+      "id": 29204,
+      "district_id": 387,
+      "name": "EYÜPSULTAN MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29205,
+      "district_id": 387,
+      "name": "FISTIKLIK MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29206,
+      "district_id": 387,
+      "name": "GAZİKENT MAH",
+      "area": "GAZİKENT",
+      "postal_code": "27580"
+    },
+    {
+      "id": 29207,
+      "district_id": 387,
+      "name": "GAZİLER MAH",
+      "area": "GAZİKENT",
+      "postal_code": "27580"
+    },
+    {
+      "id": 29208,
+      "district_id": 387,
+      "name": "GÖKSÜNCÜK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29209,
+      "district_id": 387,
+      "name": "GÖKTÜRK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29210,
+      "district_id": 387,
+      "name": "GÖLLÜCE MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29211,
+      "district_id": 387,
+      "name": "GÜNBULUR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29212,
+      "district_id": 387,
+      "name": "GÜNGÜRGE MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29213,
+      "district_id": 387,
+      "name": "GÜVENEVLER MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29214,
+      "district_id": 387,
+      "name": "HACIBABA MAH",
+      "area": "KARŞIYAKA",
+      "postal_code": "27500"
+    },
+    {
+      "id": 29215,
+      "district_id": 387,
+      "name": "İBRAHİMLİ MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29216,
+      "district_id": 387,
+      "name": "İBRAHİMŞEHİR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29217,
+      "district_id": 387,
+      "name": "İNCESU MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29218,
+      "district_id": 387,
+      "name": "IŞIKLI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29219,
+      "district_id": 387,
+      "name": "İSKENDERLİ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29220,
+      "district_id": 387,
+      "name": "KABASAKIZ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29221,
+      "district_id": 387,
+      "name": "KARACAAHMET MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29222,
+      "district_id": 387,
+      "name": "KARACABURÇ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29223,
+      "district_id": 387,
+      "name": "KARACAOĞLAN MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29224,
+      "district_id": 387,
+      "name": "KARACAÖREN MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29225,
+      "district_id": 387,
+      "name": "KARADEDE MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29226,
+      "district_id": 387,
+      "name": "KARAHÜYÜK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29227,
+      "district_id": 387,
+      "name": "KARAKESEK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29228,
+      "district_id": 387,
+      "name": "KARAYUSUFLU MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29229,
+      "district_id": 387,
+      "name": "KARPUZKAYA MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29230,
+      "district_id": 387,
+      "name": "KARŞIYAKA MAH",
+      "area": "KARŞIYAKA",
+      "postal_code": "27500"
+    },
+    {
+      "id": 29231,
+      "district_id": 387,
+      "name": "KAYAÖNÜ MAH",
+      "area": "KARŞIYAKA",
+      "postal_code": "27500"
+    },
+    {
+      "id": 29232,
+      "district_id": 387,
+      "name": "KIZIK KARASAKAL MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29233,
+      "district_id": 387,
+      "name": "KIZIKHAMURKESEN MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29234,
+      "district_id": 387,
+      "name": "KOÇLU MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29235,
+      "district_id": 387,
+      "name": "KÖKSALAN MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29236,
+      "district_id": 387,
+      "name": "KOZLUYAZI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29237,
+      "district_id": 387,
+      "name": "KÜLLÜ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29238,
+      "district_id": 387,
+      "name": "MEDEGÖZ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29239,
+      "district_id": 387,
+      "name": "MERVEŞEHİR MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29240,
+      "district_id": 387,
+      "name": "MEVLANA MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29241,
+      "district_id": 387,
+      "name": "MÜCAHİTLER MAH",
+      "area": "İNCİLİPINAR",
+      "postal_code": "27090"
+    },
+    {
+      "id": 29242,
+      "district_id": 387,
+      "name": "NESİMİ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29243,
+      "district_id": 387,
+      "name": "ÖĞÜMSÖĞÜT MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29244,
+      "district_id": 387,
+      "name": "ONAT KUTLAR MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29245,
+      "district_id": 387,
+      "name": "OSMANGAZİ MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29246,
+      "district_id": 387,
+      "name": "ÖVÜNDÜK MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29247,
+      "district_id": 387,
+      "name": "PANCARLI MAH",
+      "area": "EMEK",
+      "postal_code": "27060"
+    },
+    {
+      "id": 29248,
+      "district_id": 387,
+      "name": "PİRSULTAN MAH",
+      "area": "KARŞIYAKA",
+      "postal_code": "27500"
+    },
+    {
+      "id": 29249,
+      "district_id": 387,
+      "name": "SACIR MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29250,
+      "district_id": 387,
+      "name": "SAM MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29251,
+      "district_id": 387,
+      "name": "SANAYİ MAH",
+      "area": "KÜSGET",
+      "postal_code": "27110"
+    },
+    {
+      "id": 29252,
+      "district_id": 387,
+      "name": "SANCAKTEPE MAH",
+      "area": "İBRAHİMLİ",
+      "postal_code": "27560"
+    },
+    {
+      "id": 29253,
+      "district_id": 387,
+      "name": "SARIGÜLLÜK MAH",
+      "area": "EMEK",
+      "postal_code": "27060"
+    },
+    {
+      "id": 29254,
+      "district_id": 387,
+      "name": "SARILAR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29255,
+      "district_id": 387,
+      "name": "SEFAŞEHİR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29256,
+      "district_id": 387,
+      "name": "SELAHATTİN EYYUBİ MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29257,
+      "district_id": 387,
+      "name": "SELİMİYE MAH",
+      "area": "MERVE",
+      "postal_code": "27590"
+    },
+    {
+      "id": 29258,
+      "district_id": 387,
+      "name": "SERİNTEPE MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29259,
+      "district_id": 387,
+      "name": "SEYMENLİ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29260,
+      "district_id": 387,
+      "name": "SEYRANTEPE MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29261,
+      "district_id": 387,
+      "name": "SİNAN MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29262,
+      "district_id": 387,
+      "name": "SİNAN OSB MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29263,
+      "district_id": 387,
+      "name": "ŞİRİNEVLER MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29264,
+      "district_id": 387,
+      "name": "SOFALICI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29265,
+      "district_id": 387,
+      "name": "SUBOĞAZ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29266,
+      "district_id": 387,
+      "name": "SÜLÜKLÜ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29267,
+      "district_id": 387,
+      "name": "TAŞLICA MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29268,
+      "district_id": 387,
+      "name": "TEKİRSİN MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29269,
+      "district_id": 387,
+      "name": "TOKDEMİR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29270,
+      "district_id": 387,
+      "name": "TUĞLU MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29271,
+      "district_id": 387,
+      "name": "TÜRKYURDU MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29272,
+      "district_id": 387,
+      "name": "ÜÇGÖZE MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29273,
+      "district_id": 387,
+      "name": "UĞRUCA MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29274,
+      "district_id": 387,
+      "name": "ÜLKERLİ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29275,
+      "district_id": 387,
+      "name": "UMUT MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29276,
+      "district_id": 387,
+      "name": "YALANKOZ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29277,
+      "district_id": 387,
+      "name": "YAMAÇOBA MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29278,
+      "district_id": 387,
+      "name": "YAPRAK MAH",
+      "area": "ÇIKSORUT",
+      "postal_code": "27080"
+    },
+    {
+      "id": 29279,
+      "district_id": 387,
+      "name": "YAYIKTAŞ MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29280,
+      "district_id": 387,
+      "name": "YENİŞARKAYA MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29281,
+      "district_id": 387,
+      "name": "YEŞİLCE MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29282,
+      "district_id": 387,
+      "name": "YIĞINLI MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29283,
+      "district_id": 387,
+      "name": "YUKARI ARIL MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29284,
+      "district_id": 387,
+      "name": "ZÜLFİKAR MAH",
+      "area": "ŞEHİTKAMİL",
+      "postal_code": "27630"
+    },
+    {
+      "id": 29285,
+      "district_id": 388,
+      "name": "AKBAYIR MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29286,
+      "district_id": 388,
+      "name": "AŞAĞIHÖÇÜKLÜ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29287,
+      "district_id": 388,
+      "name": "AŞAĞIKAYABAŞI MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29288,
+      "district_id": 388,
+      "name": "AŞAĞIKEKLİKTEPE MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29289,
+      "district_id": 388,
+      "name": "BAĞTEPE MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29290,
+      "district_id": 388,
+      "name": "BAKIRCA MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29291,
+      "district_id": 388,
+      "name": "BALLIK MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29292,
+      "district_id": 388,
+      "name": "BEĞENDİK MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29293,
+      "district_id": 388,
+      "name": "BÜLBÜL MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29294,
+      "district_id": 388,
+      "name": "BÜYÜKKARAKUYU MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29295,
+      "district_id": 388,
+      "name": "ÇİLTOPRAK MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29296,
+      "district_id": 388,
+      "name": "ÇİMENLİ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29297,
+      "district_id": 388,
+      "name": "CİNGİFE MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29298,
+      "district_id": 388,
+      "name": "CUMHURİYET MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29299,
+      "district_id": 388,
+      "name": "DEĞİRMİTAŞ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29300,
+      "district_id": 388,
+      "name": "DÜZCE MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29301,
+      "district_id": 388,
+      "name": "FEVZİ ÇAKMAK MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29302,
+      "district_id": 388,
+      "name": "GÖÇMEZ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29303,
+      "district_id": 388,
+      "name": "GÜLPINAR MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29304,
+      "district_id": 388,
+      "name": "HACIMALLI MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29305,
+      "district_id": 388,
+      "name": "HAVUZ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29306,
+      "district_id": 388,
+      "name": "HÜRRİYET MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29307,
+      "district_id": 388,
+      "name": "ILICAK MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29308,
+      "district_id": 388,
+      "name": "KARABEY MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29309,
+      "district_id": 388,
+      "name": "KARAHAN MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29310,
+      "district_id": 388,
+      "name": "KARAHÜSEYİNLİ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29311,
+      "district_id": 388,
+      "name": "KASABA MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29312,
+      "district_id": 388,
+      "name": "KEŞROBASI MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29313,
+      "district_id": 388,
+      "name": "KÜÇÜKKARAKUYU MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29314,
+      "district_id": 388,
+      "name": "KUZUYATAĞI MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29315,
+      "district_id": 388,
+      "name": "ÖRENLİ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29316,
+      "district_id": 388,
+      "name": "SARAYMAĞARA MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29317,
+      "district_id": 388,
+      "name": "SARIBUĞDAY MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29318,
+      "district_id": 388,
+      "name": "SARILAR MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29319,
+      "district_id": 388,
+      "name": "ŞENLİKÇE MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29320,
+      "district_id": 388,
+      "name": "SÜLEYMANOBASI MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29321,
+      "district_id": 388,
+      "name": "SULTAN SELİM MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29322,
+      "district_id": 388,
+      "name": "TOKAÇLI MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29323,
+      "district_id": 388,
+      "name": "ÜÇGÖL MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29324,
+      "district_id": 388,
+      "name": "YARIMCA MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29325,
+      "district_id": 388,
+      "name": "YENİYURT MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29326,
+      "district_id": 388,
+      "name": "YÖRELİ MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29327,
+      "district_id": 388,
+      "name": "YUKARIKEKLİKTEPE MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    },
+    {
+      "id": 29328,
+      "district_id": 388,
+      "name": "YUKARIYENİKÖY MAH",
+      "area": "YAVUZELİ",
+      "postal_code": "27970"
+    }
+  ]
+}

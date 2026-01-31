@@ -1,0 +1,5058 @@
+{
+  "neighborhoods": [
+    {
+      "id": 48940,
+      "district_id": 668,
+      "name": "AKSARAY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48941,
+      "district_id": 668,
+      "name": "AKSÜT MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48942,
+      "district_id": 668,
+      "name": "AKTEPE MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48943,
+      "district_id": 668,
+      "name": "ALİÇERİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48944,
+      "district_id": 668,
+      "name": "ALTUNLU MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48945,
+      "district_id": 668,
+      "name": "ANCAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48946,
+      "district_id": 668,
+      "name": "AŞAĞIÖRÜKÇÜ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48947,
+      "district_id": 668,
+      "name": "AYDINLAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48948,
+      "district_id": 668,
+      "name": "BAĞKÖY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48949,
+      "district_id": 668,
+      "name": "BAHRİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48950,
+      "district_id": 668,
+      "name": "BAŞPINAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48951,
+      "district_id": 668,
+      "name": "BAYRAMUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48952,
+      "district_id": 668,
+      "name": "BEKİRUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48953,
+      "district_id": 668,
+      "name": "BÖLÜKLÜ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48954,
+      "district_id": 668,
+      "name": "BÜYÜKÇİMİŞ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48955,
+      "district_id": 668,
+      "name": "BÜYÜKKÖY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48956,
+      "district_id": 668,
+      "name": "ÇAKILLIPINAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48957,
+      "district_id": 668,
+      "name": "ÇATALBAHÇE MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48958,
+      "district_id": 668,
+      "name": "ÇEVİRME MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48959,
+      "district_id": 668,
+      "name": "ÇOBANUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48960,
+      "district_id": 668,
+      "name": "DARICA MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48961,
+      "district_id": 668,
+      "name": "DEDEKÖY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48962,
+      "district_id": 668,
+      "name": "DEMİRCİLER MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48963,
+      "district_id": 668,
+      "name": "DEVELİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48964,
+      "district_id": 668,
+      "name": "DOĞANLAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48965,
+      "district_id": 668,
+      "name": "DOĞANTEPE MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48966,
+      "district_id": 668,
+      "name": "DOĞU MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48967,
+      "district_id": 668,
+      "name": "DÜMÜKLÜ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48968,
+      "district_id": 668,
+      "name": "DURULOVA MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48969,
+      "district_id": 668,
+      "name": "DUTLU MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48970,
+      "district_id": 668,
+      "name": "EĞİN MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48971,
+      "district_id": 668,
+      "name": "ESENBEY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48972,
+      "district_id": 668,
+      "name": "ESENLİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48973,
+      "district_id": 668,
+      "name": "FATİH MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48974,
+      "district_id": 668,
+      "name": "GÖLPINAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48975,
+      "district_id": 668,
+      "name": "GÜNEŞLİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48976,
+      "district_id": 668,
+      "name": "GÜRKAYNAK MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48977,
+      "district_id": 668,
+      "name": "HANÇERLİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48978,
+      "district_id": 668,
+      "name": "HARTUT MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48979,
+      "district_id": 668,
+      "name": "HARUNUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48980,
+      "district_id": 668,
+      "name": "İKİNCİLER MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48981,
+      "district_id": 668,
+      "name": "ILICAK MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48982,
+      "district_id": 668,
+      "name": "KADIİBRAHİM MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48983,
+      "district_id": 668,
+      "name": "KAHYALI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48984,
+      "district_id": 668,
+      "name": "KARAMAĞARA MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48985,
+      "district_id": 668,
+      "name": "KARAPINAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48986,
+      "district_id": 668,
+      "name": "KASIMUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48987,
+      "district_id": 668,
+      "name": "KAYADİBİ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48988,
+      "district_id": 668,
+      "name": "KEKLİKPINARI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48989,
+      "district_id": 668,
+      "name": "KELLER MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48990,
+      "district_id": 668,
+      "name": "KEPEZ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48991,
+      "district_id": 668,
+      "name": "KOLKÖY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48992,
+      "district_id": 668,
+      "name": "KÖMEKAVAK MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48993,
+      "district_id": 668,
+      "name": "KOTANGÖLÜ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48994,
+      "district_id": 668,
+      "name": "KOZLUCA MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48995,
+      "district_id": 668,
+      "name": "KÜÇÜKKÜRNE MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48996,
+      "district_id": 668,
+      "name": "KÜLTÜR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48997,
+      "district_id": 668,
+      "name": "KURTUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48998,
+      "district_id": 668,
+      "name": "LEVENT MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 48999,
+      "district_id": 668,
+      "name": "MEZRA MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49000,
+      "district_id": 668,
+      "name": "MİHMANLI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49001,
+      "district_id": 668,
+      "name": "MURATLI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49002,
+      "district_id": 668,
+      "name": "ÖREN MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49003,
+      "district_id": 668,
+      "name": "ORTAKÖY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49004,
+      "district_id": 668,
+      "name": "RESULUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49005,
+      "district_id": 668,
+      "name": "SAHİLKÖY MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49006,
+      "district_id": 668,
+      "name": "SAKALIUZUN MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49007,
+      "district_id": 668,
+      "name": "SARIHACI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49008,
+      "district_id": 668,
+      "name": "ŞEYHLER MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49009,
+      "district_id": 668,
+      "name": "TAŞEVLER MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49010,
+      "district_id": 668,
+      "name": "TAŞOLAR MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49011,
+      "district_id": 668,
+      "name": "TATARUŞAĞI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49012,
+      "district_id": 668,
+      "name": "YAĞMURLU MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49013,
+      "district_id": 668,
+      "name": "YALINBUDAK MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49014,
+      "district_id": 668,
+      "name": "YALINKAYA MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49015,
+      "district_id": 668,
+      "name": "YAYLIMLI MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49016,
+      "district_id": 668,
+      "name": "YUKARIÖRÜKÇÜ MAH",
+      "area": "AKÇADAĞ",
+      "postal_code": "44600"
+    },
+    {
+      "id": 49017,
+      "district_id": 669,
+      "name": "AKTAŞ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49018,
+      "district_id": 669,
+      "name": "ALIÇLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49019,
+      "district_id": 669,
+      "name": "AŞAĞIÇÖRENGE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49020,
+      "district_id": 669,
+      "name": "AŞAĞIULUPINAR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49021,
+      "district_id": 669,
+      "name": "AŞAĞIYENİCE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49022,
+      "district_id": 669,
+      "name": "BERENGE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49023,
+      "district_id": 669,
+      "name": "BOĞAZLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49024,
+      "district_id": 669,
+      "name": "BOSTANCIK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49025,
+      "district_id": 669,
+      "name": "BUDAK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49026,
+      "district_id": 669,
+      "name": "ÇAKIRSU MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49027,
+      "district_id": 669,
+      "name": "ÇARŞI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49028,
+      "district_id": 669,
+      "name": "ÇAYBAŞI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49029,
+      "district_id": 669,
+      "name": "ÇİĞNİR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49030,
+      "district_id": 669,
+      "name": "ÇİMEN MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49031,
+      "district_id": 669,
+      "name": "ÇOBANLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49032,
+      "district_id": 669,
+      "name": "CÖMERTLİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49033,
+      "district_id": 669,
+      "name": "DEREGEZEN MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49034,
+      "district_id": 669,
+      "name": "DÜZCE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49035,
+      "district_id": 669,
+      "name": "EĞNİR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49036,
+      "district_id": 669,
+      "name": "ESİKLİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49037,
+      "district_id": 669,
+      "name": "ESKİARAPGİR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49038,
+      "district_id": 669,
+      "name": "GEBELİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49039,
+      "district_id": 669,
+      "name": "GÖZ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49040,
+      "district_id": 669,
+      "name": "GÖZELİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49041,
+      "district_id": 669,
+      "name": "GÜNYÜZÜ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49042,
+      "district_id": 669,
+      "name": "HEZENEK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49043,
+      "district_id": 669,
+      "name": "HOCAALİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49044,
+      "district_id": 669,
+      "name": "KAYAKESEN MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49045,
+      "district_id": 669,
+      "name": "KAYNAK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49046,
+      "district_id": 669,
+      "name": "KAZANÇ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49047,
+      "district_id": 669,
+      "name": "KILIÇLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49048,
+      "district_id": 669,
+      "name": "KONDUCAK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49049,
+      "district_id": 669,
+      "name": "KORU MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49050,
+      "district_id": 669,
+      "name": "KÖSEOĞLU MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49051,
+      "district_id": 669,
+      "name": "MEHMETAKİF MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49052,
+      "district_id": 669,
+      "name": "MEŞELİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49053,
+      "district_id": 669,
+      "name": "ONAR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49054,
+      "district_id": 669,
+      "name": "ORMANSIRTI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49055,
+      "district_id": 669,
+      "name": "OSMANPAŞA MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49056,
+      "district_id": 669,
+      "name": "PACALI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49057,
+      "district_id": 669,
+      "name": "PİRALİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49058,
+      "district_id": 669,
+      "name": "ŞAĞILUŞAĞI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49059,
+      "district_id": 669,
+      "name": "SEKİZSU MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49060,
+      "district_id": 669,
+      "name": "SELAMLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49061,
+      "district_id": 669,
+      "name": "SERGE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49062,
+      "district_id": 669,
+      "name": "ŞIHLAR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49063,
+      "district_id": 669,
+      "name": "SİNİKLİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49064,
+      "district_id": 669,
+      "name": "SİPAHİUŞAĞI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49065,
+      "district_id": 669,
+      "name": "SUCEYİN MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49066,
+      "district_id": 669,
+      "name": "SUGEÇTİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49067,
+      "district_id": 669,
+      "name": "TARHAN MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49068,
+      "district_id": 669,
+      "name": "TAŞDELEN MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49069,
+      "district_id": 669,
+      "name": "TAŞDİBEK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49070,
+      "district_id": 669,
+      "name": "ULAÇLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49071,
+      "district_id": 669,
+      "name": "YAYLACIK MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49072,
+      "district_id": 669,
+      "name": "YAZILI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49073,
+      "district_id": 669,
+      "name": "YENİ MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49074,
+      "district_id": 669,
+      "name": "YEŞİLYAYLA MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49075,
+      "district_id": 669,
+      "name": "YUKARIÇÖRENGE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49076,
+      "district_id": 669,
+      "name": "YUKARIULUPINAR MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49077,
+      "district_id": 669,
+      "name": "YUKARIYABANLI MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49078,
+      "district_id": 669,
+      "name": "YUKARIYENİCE MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49079,
+      "district_id": 669,
+      "name": "ZÖHRAP MAH",
+      "area": "ARAPGİR",
+      "postal_code": "44800"
+    },
+    {
+      "id": 49080,
+      "district_id": 670,
+      "name": "AKÖREN MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49081,
+      "district_id": 670,
+      "name": "ALHASUŞAĞI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49082,
+      "district_id": 670,
+      "name": "ARMUTLU MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49083,
+      "district_id": 670,
+      "name": "AŞAĞISÜLMENLİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49084,
+      "district_id": 670,
+      "name": "ASAR MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49085,
+      "district_id": 670,
+      "name": "ASMACA MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49086,
+      "district_id": 670,
+      "name": "BAHÇELİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49087,
+      "district_id": 670,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49088,
+      "district_id": 670,
+      "name": "BOZAN MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49089,
+      "district_id": 670,
+      "name": "ÇAKMAK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49090,
+      "district_id": 670,
+      "name": "ÇAVUŞKÖY MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49091,
+      "district_id": 670,
+      "name": "ÇAYIRLI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49092,
+      "district_id": 670,
+      "name": "ÇEVRELİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49093,
+      "district_id": 670,
+      "name": "ÇİFTLİK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49094,
+      "district_id": 670,
+      "name": "DOLAYLI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49095,
+      "district_id": 670,
+      "name": "DOYDUM MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49096,
+      "district_id": 670,
+      "name": "ERMİŞLİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49097,
+      "district_id": 670,
+      "name": "EYMİR MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49098,
+      "district_id": 670,
+      "name": "GÖÇERUŞAĞI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49099,
+      "district_id": 670,
+      "name": "GÖKAĞAÇ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49100,
+      "district_id": 670,
+      "name": "GÜMÜŞLÜ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49101,
+      "district_id": 670,
+      "name": "GÜNGÖREN MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49102,
+      "district_id": 670,
+      "name": "GÜRGE MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49103,
+      "district_id": 670,
+      "name": "GÜVEÇLİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49104,
+      "district_id": 670,
+      "name": "HAKVERDİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49105,
+      "district_id": 670,
+      "name": "İÇMECE MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49106,
+      "district_id": 670,
+      "name": "İSAKÖY MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49107,
+      "district_id": 670,
+      "name": "KARABABA MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49108,
+      "district_id": 670,
+      "name": "KARAHÜYÜK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49109,
+      "district_id": 670,
+      "name": "KIZIK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49110,
+      "district_id": 670,
+      "name": "KIZILUŞAĞI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49111,
+      "district_id": 670,
+      "name": "KOÇAK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49112,
+      "district_id": 670,
+      "name": "KÖMÜRLÜK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49113,
+      "district_id": 670,
+      "name": "KONAKBAŞI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49114,
+      "district_id": 670,
+      "name": "KURUTTAŞ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49115,
+      "district_id": 670,
+      "name": "KUYUDERE MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49116,
+      "district_id": 670,
+      "name": "MORHAMAM MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49117,
+      "district_id": 670,
+      "name": "NARMİKAN MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49118,
+      "district_id": 670,
+      "name": "PARÇİKAN MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49119,
+      "district_id": 670,
+      "name": "ŞOTİK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49120,
+      "district_id": 670,
+      "name": "TARLACIK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49121,
+      "district_id": 670,
+      "name": "TATKINIK MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49122,
+      "district_id": 670,
+      "name": "TEPEBAĞ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49123,
+      "district_id": 670,
+      "name": "YAMAÇ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49124,
+      "district_id": 670,
+      "name": "YENİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49125,
+      "district_id": 670,
+      "name": "YENİKÖY MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49126,
+      "district_id": 670,
+      "name": "YONCALI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49127,
+      "district_id": 670,
+      "name": "YUKARISÜLMENLİ MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49128,
+      "district_id": 670,
+      "name": "YÜREKTAŞI MAH",
+      "area": "ARGUVAN",
+      "postal_code": "44960"
+    },
+    {
+      "id": 49129,
+      "district_id": 671,
+      "name": "ADAGÖREN MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49130,
+      "district_id": 671,
+      "name": "AĞILYAZI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49131,
+      "district_id": 671,
+      "name": "AKPINAR MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49132,
+      "district_id": 671,
+      "name": "ALACAKAPI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49133,
+      "district_id": 671,
+      "name": "ALHANUŞAĞI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49134,
+      "district_id": 671,
+      "name": "ALİŞAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49135,
+      "district_id": 671,
+      "name": "ASLANBEY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49136,
+      "district_id": 671,
+      "name": "ATAKÖY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49137,
+      "district_id": 671,
+      "name": "B.HÜSEYİNBEY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49138,
+      "district_id": 671,
+      "name": "B.MUSTAFA PAŞA MAH",
+      "area": "SITMAPINARI",
+      "postal_code": "44120"
+    },
+    {
+      "id": 49139,
+      "district_id": 671,
+      "name": "BAĞTEPE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49140,
+      "district_id": 671,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49141,
+      "district_id": 671,
+      "name": "BAHRİ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49142,
+      "district_id": 671,
+      "name": "BAŞHARIK MAH",
+      "area": "KAPALIÇARŞI",
+      "postal_code": "44200"
+    },
+    {
+      "id": 49143,
+      "district_id": 671,
+      "name": "BATTALGAZİ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49144,
+      "district_id": 671,
+      "name": "BEYDAĞI MAH",
+      "area": "BEYDAĞI",
+      "postal_code": "44320"
+    },
+    {
+      "id": 49145,
+      "district_id": 671,
+      "name": "BEYLERBAŞI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49146,
+      "district_id": 671,
+      "name": "BORAN MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49147,
+      "district_id": 671,
+      "name": "BULGURLU MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49148,
+      "district_id": 671,
+      "name": "BULUTLU MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49149,
+      "district_id": 671,
+      "name": "ÇAMURLU MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49150,
+      "district_id": 671,
+      "name": "CEVHERİZADE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49151,
+      "district_id": 671,
+      "name": "CİRİKPINAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49152,
+      "district_id": 671,
+      "name": "ÇOLAKLI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49153,
+      "district_id": 671,
+      "name": "ÇOLAKOĞLU MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49154,
+      "district_id": 671,
+      "name": "ÇÖŞNÜK MAH",
+      "area": "BEYDAĞI",
+      "postal_code": "44320"
+    },
+    {
+      "id": 49155,
+      "district_id": 671,
+      "name": "DABAKHANE MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49156,
+      "district_id": 671,
+      "name": "DOLAMANTEPE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49157,
+      "district_id": 671,
+      "name": "DÜZYOL MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49158,
+      "district_id": 671,
+      "name": "FERHADİYE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49159,
+      "district_id": 671,
+      "name": "FIRAT MAH",
+      "area": "BEYDAĞI",
+      "postal_code": "44320"
+    },
+    {
+      "id": 49160,
+      "district_id": 671,
+      "name": "FIRINCI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49161,
+      "district_id": 671,
+      "name": "GÖLLER MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49162,
+      "district_id": 671,
+      "name": "GÖZTEPE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49163,
+      "district_id": 671,
+      "name": "GÜLÜMUŞAĞI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49164,
+      "district_id": 671,
+      "name": "HACI ABDİ MAH",
+      "area": "SITMAPINARI",
+      "postal_code": "44120"
+    },
+    {
+      "id": 49165,
+      "district_id": 671,
+      "name": "HACIHALİLOĞLUÇİFTLİĞİ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49166,
+      "district_id": 671,
+      "name": "HACIYUSUFLAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49167,
+      "district_id": 671,
+      "name": "HALFETTİN MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49168,
+      "district_id": 671,
+      "name": "HAMİDİYE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49169,
+      "district_id": 671,
+      "name": "HANIMINÇİFTLİĞİ MAH",
+      "area": "HANIMINÇİFTLİĞİ",
+      "postal_code": "44050"
+    },
+    {
+      "id": 49170,
+      "district_id": 671,
+      "name": "HASAN VAROL MAH",
+      "area": "KAPALIÇARŞI",
+      "postal_code": "44200"
+    },
+    {
+      "id": 49171,
+      "district_id": 671,
+      "name": "HASIRCILAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49172,
+      "district_id": 671,
+      "name": "HATUNSUYU MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49173,
+      "district_id": 671,
+      "name": "HİDAYET MAH",
+      "area": "TAŞTEPE",
+      "postal_code": "44060"
+    },
+    {
+      "id": 49174,
+      "district_id": 671,
+      "name": "HİSARTEPE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49175,
+      "district_id": 671,
+      "name": "İSKENDER MAH",
+      "area": "TAŞTEPE",
+      "postal_code": "44060"
+    },
+    {
+      "id": 49176,
+      "district_id": 671,
+      "name": "İSMETİYE MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49177,
+      "district_id": 671,
+      "name": "İSTİKLAL MAH",
+      "area": "KAPALIÇARŞI",
+      "postal_code": "44200"
+    },
+    {
+      "id": 49178,
+      "district_id": 671,
+      "name": "İZZETİYE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49179,
+      "district_id": 671,
+      "name": "K.HÜSEYİNBEY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49180,
+      "district_id": 671,
+      "name": "K.MUSTAFA PAŞA MAH",
+      "area": "SITMAPINARI",
+      "postal_code": "44120"
+    },
+    {
+      "id": 49181,
+      "district_id": 671,
+      "name": "KADIÇAYIRI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49182,
+      "district_id": 671,
+      "name": "KAMIŞTAŞ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49183,
+      "district_id": 671,
+      "name": "KAPIKAYA MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49184,
+      "district_id": 671,
+      "name": "KARABAĞLAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49185,
+      "district_id": 671,
+      "name": "KARAGÖZ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49186,
+      "district_id": 671,
+      "name": "KARAHAN MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49187,
+      "district_id": 671,
+      "name": "KARAKAŞÇİFTLİĞİKÖYÜ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49188,
+      "district_id": 671,
+      "name": "KARAKÖY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49189,
+      "district_id": 671,
+      "name": "KARATEPE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49190,
+      "district_id": 671,
+      "name": "KAVAKLIBAĞ MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49191,
+      "district_id": 671,
+      "name": "KEMERKÖPRÜ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49192,
+      "district_id": 671,
+      "name": "KERNEK MAH",
+      "area": "KANALBOYU",
+      "postal_code": "44300"
+    },
+    {
+      "id": 49193,
+      "district_id": 671,
+      "name": "KIRAÇ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49194,
+      "district_id": 671,
+      "name": "KIRÇUVAL MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49195,
+      "district_id": 671,
+      "name": "KULUŞAĞI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49196,
+      "district_id": 671,
+      "name": "MERDİVENLER MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49197,
+      "district_id": 671,
+      "name": "MERKEZ BEYDAĞI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49198,
+      "district_id": 671,
+      "name": "MEYDANBAŞI MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49199,
+      "district_id": 671,
+      "name": "MEYDANCIK MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49200,
+      "district_id": 671,
+      "name": "NİYAZİ MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49201,
+      "district_id": 671,
+      "name": "NURİYE MAH",
+      "area": "SITMAPINARI",
+      "postal_code": "44120"
+    },
+    {
+      "id": 49202,
+      "district_id": 671,
+      "name": "ORDUZU MAH",
+      "area": "ORDUZU",
+      "postal_code": "44170"
+    },
+    {
+      "id": 49203,
+      "district_id": 671,
+      "name": "PAŞAKÖŞKÜ MAH",
+      "area": "KAPALIÇARŞI",
+      "postal_code": "44200"
+    },
+    {
+      "id": 49204,
+      "district_id": 671,
+      "name": "PELİTLİ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49205,
+      "district_id": 671,
+      "name": "SANCAKTAR MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49206,
+      "district_id": 671,
+      "name": "SARAY MAH",
+      "area": "KANALBOYU",
+      "postal_code": "44300"
+    },
+    {
+      "id": 49207,
+      "district_id": 671,
+      "name": "SARICIOĞLU MAH",
+      "area": "TAŞTEPE",
+      "postal_code": "44060"
+    },
+    {
+      "id": 49208,
+      "district_id": 671,
+      "name": "ŞEHİTFEVZİ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49209,
+      "district_id": 671,
+      "name": "SELÇUKLU MAH",
+      "area": "HANIMINÇİFTLİĞİ",
+      "postal_code": "44050"
+    },
+    {
+      "id": 49210,
+      "district_id": 671,
+      "name": "SELVİDAĞ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49211,
+      "district_id": 671,
+      "name": "SERİNTEPE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49212,
+      "district_id": 671,
+      "name": "ŞİFA MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49213,
+      "district_id": 671,
+      "name": "ŞIKŞIK MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49214,
+      "district_id": 671,
+      "name": "ŞİŞMAN MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49215,
+      "district_id": 671,
+      "name": "TANDOĞAN MAH",
+      "area": "HANIMINÇİFTLİĞİ",
+      "postal_code": "44050"
+    },
+    {
+      "id": 49216,
+      "district_id": 671,
+      "name": "TANIŞIK MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49217,
+      "district_id": 671,
+      "name": "TAŞTEPE MAH",
+      "area": "TAŞTEPE",
+      "postal_code": "44060"
+    },
+    {
+      "id": 49218,
+      "district_id": 671,
+      "name": "TOKLUCA MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49219,
+      "district_id": 671,
+      "name": "TOPTAŞ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49220,
+      "district_id": 671,
+      "name": "TOYGAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49221,
+      "district_id": 671,
+      "name": "ÜÇBAĞLAR MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49222,
+      "district_id": 671,
+      "name": "ULUKÖY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49223,
+      "district_id": 671,
+      "name": "ÜNİVERSİTE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49224,
+      "district_id": 671,
+      "name": "ÜZÜMLÜ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49225,
+      "district_id": 671,
+      "name": "YAMAÇ MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49226,
+      "district_id": 671,
+      "name": "YARIMCAHAN MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49227,
+      "district_id": 671,
+      "name": "YAYGIN MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49228,
+      "district_id": 671,
+      "name": "YENİCE MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49229,
+      "district_id": 671,
+      "name": "YENİHAMAM MAH",
+      "area": "DABAKHANE",
+      "postal_code": "44100"
+    },
+    {
+      "id": 49230,
+      "district_id": 671,
+      "name": "YENİKÖY MAH",
+      "area": "BATTALGAZİ",
+      "postal_code": "44210"
+    },
+    {
+      "id": 49231,
+      "district_id": 671,
+      "name": "YILDIZTEPE MAH",
+      "area": "HANIMINÇİFTLİĞİ",
+      "postal_code": "44050"
+    },
+    {
+      "id": 49232,
+      "district_id": 671,
+      "name": "ZAFER MAH",
+      "area": "KANALBOYU",
+      "postal_code": "44300"
+    },
+    {
+      "id": 49233,
+      "district_id": 672,
+      "name": "AĞILBAŞI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49234,
+      "district_id": 672,
+      "name": "AĞILYAZI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49235,
+      "district_id": 672,
+      "name": "AKBABA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49236,
+      "district_id": 672,
+      "name": "AKÇATOPRAK MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49237,
+      "district_id": 672,
+      "name": "AKOVA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49238,
+      "district_id": 672,
+      "name": "AŞAĞIULUPINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49239,
+      "district_id": 672,
+      "name": "AYVALI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49240,
+      "district_id": 672,
+      "name": "BALABAN MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49241,
+      "district_id": 672,
+      "name": "BARINDIR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49242,
+      "district_id": 672,
+      "name": "BAŞKAYA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49243,
+      "district_id": 672,
+      "name": "BAYTARBAĞI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49244,
+      "district_id": 672,
+      "name": "BEYBAĞI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49245,
+      "district_id": 672,
+      "name": "ÇAYBAŞI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49246,
+      "district_id": 672,
+      "name": "ÇAYBAŞI OSB MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49247,
+      "district_id": 672,
+      "name": "ÇINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49248,
+      "district_id": 672,
+      "name": "ÇUKURKAYA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49249,
+      "district_id": 672,
+      "name": "GAZİKÖY MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49250,
+      "district_id": 672,
+      "name": "GÖKÇEÖREN MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49251,
+      "district_id": 672,
+      "name": "GÖKYAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49252,
+      "district_id": 672,
+      "name": "GÖLLÜCE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49253,
+      "district_id": 672,
+      "name": "GÜDÜL MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49254,
+      "district_id": 672,
+      "name": "GÜNERLİ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49255,
+      "district_id": 672,
+      "name": "GÜNPINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49256,
+      "district_id": 672,
+      "name": "HACIDERVİŞ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49257,
+      "district_id": 672,
+      "name": "HACILAR ŞEYHLİ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49258,
+      "district_id": 672,
+      "name": "HACILAR SIRAGÖZ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49259,
+      "district_id": 672,
+      "name": "HACOLAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49260,
+      "district_id": 672,
+      "name": "HEYİKETEĞİ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49261,
+      "district_id": 672,
+      "name": "HİSARCIK MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49262,
+      "district_id": 672,
+      "name": "HİSARKALE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49263,
+      "district_id": 672,
+      "name": "İBRAHİMPAŞA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49264,
+      "district_id": 672,
+      "name": "ILICA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49265,
+      "district_id": 672,
+      "name": "IRMAKLI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49266,
+      "district_id": 672,
+      "name": "KALDIRIM MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49267,
+      "district_id": 672,
+      "name": "KARABACAK MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49268,
+      "district_id": 672,
+      "name": "KARABAYIR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49269,
+      "district_id": 672,
+      "name": "KARAOĞUZ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49270,
+      "district_id": 672,
+      "name": "KAVAK MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49271,
+      "district_id": 672,
+      "name": "KAYNAK MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49272,
+      "district_id": 672,
+      "name": "KERİMLİ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49273,
+      "district_id": 672,
+      "name": "KILIÇBAĞI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49274,
+      "district_id": 672,
+      "name": "KÖLÜKLER MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49275,
+      "district_id": 672,
+      "name": "KURUDERE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49276,
+      "district_id": 672,
+      "name": "KUZPINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49277,
+      "district_id": 672,
+      "name": "MEDİŞEYH MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49278,
+      "district_id": 672,
+      "name": "MEHMET PAŞA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49279,
+      "district_id": 672,
+      "name": "MOLLAUŞAĞI MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49280,
+      "district_id": 672,
+      "name": "NADİR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49281,
+      "district_id": 672,
+      "name": "NURKUYUSU MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49282,
+      "district_id": 672,
+      "name": "OZAN MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49283,
+      "district_id": 672,
+      "name": "PALANGA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49284,
+      "district_id": 672,
+      "name": "SAKARYA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49285,
+      "district_id": 672,
+      "name": "SANDIKKAYA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49286,
+      "district_id": 672,
+      "name": "SAYFİYE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49287,
+      "district_id": 672,
+      "name": "ŞENDERE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49288,
+      "district_id": 672,
+      "name": "ŞUĞUL MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49289,
+      "district_id": 672,
+      "name": "SUNGUR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49290,
+      "district_id": 672,
+      "name": "ÜÇPINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49291,
+      "district_id": 672,
+      "name": "UZUNHASAN MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49292,
+      "district_id": 672,
+      "name": "YARIMCA MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49293,
+      "district_id": 672,
+      "name": "YAVUZLAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49294,
+      "district_id": 672,
+      "name": "YAZIKÖY MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49295,
+      "district_id": 672,
+      "name": "YENİCE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49296,
+      "district_id": 672,
+      "name": "YENİKÖY MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49297,
+      "district_id": 672,
+      "name": "YENİPINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49298,
+      "district_id": 672,
+      "name": "YEŞİLTAŞ MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49299,
+      "district_id": 672,
+      "name": "YUKARIULUPINAR MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49300,
+      "district_id": 672,
+      "name": "ZAVİYE MAH",
+      "area": "DARENDE",
+      "postal_code": "44700"
+    },
+    {
+      "id": 49301,
+      "district_id": 673,
+      "name": "ALTINTOP MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49302,
+      "district_id": 673,
+      "name": "BEĞRE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49303,
+      "district_id": 673,
+      "name": "BIÇAKÇI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49304,
+      "district_id": 673,
+      "name": "ÇAVUŞLU MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49305,
+      "district_id": 673,
+      "name": "ÇIĞLIK MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49306,
+      "district_id": 673,
+      "name": "ÇÖMLEKOBA MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49307,
+      "district_id": 673,
+      "name": "DEDEYAZI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49308,
+      "district_id": 673,
+      "name": "DOĞU MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49309,
+      "district_id": 673,
+      "name": "ELMALI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49310,
+      "district_id": 673,
+      "name": "ERKENEK MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49311,
+      "district_id": 673,
+      "name": "ESENTEPE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49312,
+      "district_id": 673,
+      "name": "ESKİKÖY MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49313,
+      "district_id": 673,
+      "name": "FINDIK MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49314,
+      "district_id": 673,
+      "name": "GÖVDELİ MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49315,
+      "district_id": 673,
+      "name": "GÜNEDOĞRU MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49316,
+      "district_id": 673,
+      "name": "GÜROBASI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49317,
+      "district_id": 673,
+      "name": "GÜZELKÖY MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49318,
+      "district_id": 673,
+      "name": "HUDUT MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49319,
+      "district_id": 673,
+      "name": "KADILI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49320,
+      "district_id": 673,
+      "name": "KAPIDERE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49321,
+      "district_id": 673,
+      "name": "KARANLIKDERE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49322,
+      "district_id": 673,
+      "name": "KARATERZİ MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49323,
+      "district_id": 673,
+      "name": "KARŞIYAKA MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49324,
+      "district_id": 673,
+      "name": "KELHALİL MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49325,
+      "district_id": 673,
+      "name": "KÜÇÜKLÜ MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49326,
+      "district_id": 673,
+      "name": "KURUCAOVA MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49327,
+      "district_id": 673,
+      "name": "ÖRENCİK MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49328,
+      "district_id": 673,
+      "name": "POLAT MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49329,
+      "district_id": 673,
+      "name": "POLATDERE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49330,
+      "district_id": 673,
+      "name": "REŞADİYE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49331,
+      "district_id": 673,
+      "name": "ŞATIROBA MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49332,
+      "district_id": 673,
+      "name": "SAVAKLI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49333,
+      "district_id": 673,
+      "name": "SÖĞÜT MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49334,
+      "district_id": 673,
+      "name": "SUÇATI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49335,
+      "district_id": 673,
+      "name": "SÜRGÜ MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49336,
+      "district_id": 673,
+      "name": "TOPRAKTEPE MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49337,
+      "district_id": 673,
+      "name": "YENİ MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49338,
+      "district_id": 673,
+      "name": "YOLKORU MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49339,
+      "district_id": 673,
+      "name": "YUVALI MAH",
+      "area": "DOĞANŞEHİR",
+      "postal_code": "44500"
+    },
+    {
+      "id": 49340,
+      "district_id": 674,
+      "name": "AKKENT MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49341,
+      "district_id": 674,
+      "name": "BEHRAMLI MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49342,
+      "district_id": 674,
+      "name": "BURÇKÖY MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49343,
+      "district_id": 674,
+      "name": "ÇOLAK MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49344,
+      "district_id": 674,
+      "name": "DAMLI MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49345,
+      "district_id": 674,
+      "name": "GEVHERUŞAĞI MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49346,
+      "district_id": 674,
+      "name": "GÖKÇE MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49347,
+      "district_id": 674,
+      "name": "GÜMÜŞSU MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49348,
+      "district_id": 674,
+      "name": "İSAK MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49349,
+      "district_id": 674,
+      "name": "KOLDERE MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49350,
+      "district_id": 674,
+      "name": "KONURTAY MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49351,
+      "district_id": 674,
+      "name": "MEZRAA MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49352,
+      "district_id": 674,
+      "name": "POYRAZ MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49353,
+      "district_id": 674,
+      "name": "ULUTAŞ MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49354,
+      "district_id": 674,
+      "name": "YALINCA MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49355,
+      "district_id": 674,
+      "name": "YEŞİLKÖY MAH",
+      "area": "DOĞANYOL",
+      "postal_code": "44880"
+    },
+    {
+      "id": 49356,
+      "district_id": 675,
+      "name": "AKMAĞARA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49357,
+      "district_id": 675,
+      "name": "AKSÜTLÜ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49358,
+      "district_id": 675,
+      "name": "AŞAĞISAZLICA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49359,
+      "district_id": 675,
+      "name": "BAĞYOLU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49360,
+      "district_id": 675,
+      "name": "BAHÇEDAMI MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49361,
+      "district_id": 675,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49362,
+      "district_id": 675,
+      "name": "BALLIKAYA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49363,
+      "district_id": 675,
+      "name": "BASAK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49364,
+      "district_id": 675,
+      "name": "BAŞKAVAK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49365,
+      "district_id": 675,
+      "name": "BAŞKINIK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49366,
+      "district_id": 675,
+      "name": "BEYKENT MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49367,
+      "district_id": 675,
+      "name": "BOĞAZGÖREN MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49368,
+      "district_id": 675,
+      "name": "BUDAKLI MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49369,
+      "district_id": 675,
+      "name": "ÇANAKPINAR MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49370,
+      "district_id": 675,
+      "name": "ÇİMENLİK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49371,
+      "district_id": 675,
+      "name": "ÇULHALI MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49372,
+      "district_id": 675,
+      "name": "DAVULGU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49373,
+      "district_id": 675,
+      "name": "DELİHASANYURDU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49374,
+      "district_id": 675,
+      "name": "DEREKÖY MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49375,
+      "district_id": 675,
+      "name": "DEVECİ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49376,
+      "district_id": 675,
+      "name": "DİKENLİ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49377,
+      "district_id": 675,
+      "name": "DİKİLİ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49378,
+      "district_id": 675,
+      "name": "DUMLU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49379,
+      "district_id": 675,
+      "name": "DURSUNLU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49380,
+      "district_id": 675,
+      "name": "FATİH MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49381,
+      "district_id": 675,
+      "name": "GİRMANA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49382,
+      "district_id": 675,
+      "name": "GÜÇLÜ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49383,
+      "district_id": 675,
+      "name": "GÜVENÇ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49384,
+      "district_id": 675,
+      "name": "GÜZELYAYLA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49385,
+      "district_id": 675,
+      "name": "GÜZELYURT MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49386,
+      "district_id": 675,
+      "name": "HACILAR MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49387,
+      "district_id": 675,
+      "name": "HASANÇELEBİ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49388,
+      "district_id": 675,
+      "name": "HAYDAROĞLU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49389,
+      "district_id": 675,
+      "name": "İĞDİR MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49390,
+      "district_id": 675,
+      "name": "IŞIKLI MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49391,
+      "district_id": 675,
+      "name": "KARADERE MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49392,
+      "district_id": 675,
+      "name": "KARAKÖÇEK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49393,
+      "district_id": 675,
+      "name": "KARAPINAR MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49394,
+      "district_id": 675,
+      "name": "KARŞIYAKA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49395,
+      "district_id": 675,
+      "name": "KARSLILAR MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49396,
+      "district_id": 675,
+      "name": "KAVACIK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49397,
+      "district_id": 675,
+      "name": "KOCAÖZÜ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49398,
+      "district_id": 675,
+      "name": "KÖPRÜLÜ MEHMET PAŞA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49399,
+      "district_id": 675,
+      "name": "KÖYLÜKÖYÜ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49400,
+      "district_id": 675,
+      "name": "KOZDERE MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49401,
+      "district_id": 675,
+      "name": "KURŞUNLU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49402,
+      "district_id": 675,
+      "name": "MİMAR SİNAN MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49403,
+      "district_id": 675,
+      "name": "MOLLAİBRAHİM MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49404,
+      "district_id": 675,
+      "name": "SALICIK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49405,
+      "district_id": 675,
+      "name": "SARAYLI MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49406,
+      "district_id": 675,
+      "name": "SARIKIZ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49407,
+      "district_id": 675,
+      "name": "SAZLICA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49408,
+      "district_id": 675,
+      "name": "ŞEHİT MEHMET FETHİ AKYÜZ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49409,
+      "district_id": 675,
+      "name": "SÖĞÜT MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49410,
+      "district_id": 675,
+      "name": "TAŞBAŞI MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49411,
+      "district_id": 675,
+      "name": "TAŞOLUK MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49412,
+      "district_id": 675,
+      "name": "TURGUT ÖZAL MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49413,
+      "district_id": 675,
+      "name": "UĞURLU MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49414,
+      "district_id": 675,
+      "name": "YAĞCA MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49415,
+      "district_id": 675,
+      "name": "YAYLADAM MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49416,
+      "district_id": 675,
+      "name": "YENİ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49417,
+      "district_id": 675,
+      "name": "YEŞİLKALE MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49418,
+      "district_id": 675,
+      "name": "YEŞİLKÖY MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49419,
+      "district_id": 675,
+      "name": "YEŞİLPINAR MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49420,
+      "district_id": 675,
+      "name": "YUKARISELİMLİ MAH",
+      "area": "HEKİMHAN",
+      "postal_code": "44400"
+    },
+    {
+      "id": 49421,
+      "district_id": 676,
+      "name": "ABUŞOĞLU MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49422,
+      "district_id": 676,
+      "name": "AKÇA MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49423,
+      "district_id": 676,
+      "name": "AKUŞAĞI MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49424,
+      "district_id": 676,
+      "name": "BAĞLICA MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49425,
+      "district_id": 676,
+      "name": "BENTKÖY MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49426,
+      "district_id": 676,
+      "name": "ÇANAKÇI MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49427,
+      "district_id": 676,
+      "name": "DARIPINAR MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49428,
+      "district_id": 676,
+      "name": "DEDEKÖY MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49429,
+      "district_id": 676,
+      "name": "DÜZTARLA MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49430,
+      "district_id": 676,
+      "name": "ERDEMLİ MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49431,
+      "district_id": 676,
+      "name": "GÜLENKÖY MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49432,
+      "district_id": 676,
+      "name": "GÜNEYCE MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49433,
+      "district_id": 676,
+      "name": "İKİZPINAR MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49434,
+      "district_id": 676,
+      "name": "KALEKÖY MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49435,
+      "district_id": 676,
+      "name": "KARAAĞAÇ MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49436,
+      "district_id": 676,
+      "name": "KARAHÜSEYİN MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49437,
+      "district_id": 676,
+      "name": "KIYICAK MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49438,
+      "district_id": 676,
+      "name": "KOZLUK MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49439,
+      "district_id": 676,
+      "name": "KUMLUYAZI MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49440,
+      "district_id": 676,
+      "name": "MAHMUT DURSUN MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49441,
+      "district_id": 676,
+      "name": "SALKIMLI MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49442,
+      "district_id": 676,
+      "name": "SARIOT MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49443,
+      "district_id": 676,
+      "name": "SOĞUKPINAR MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49444,
+      "district_id": 676,
+      "name": "TEPEBAŞI MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49445,
+      "district_id": 676,
+      "name": "ÜÇDEĞİRMEN MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49446,
+      "district_id": 676,
+      "name": "UYANIK MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49447,
+      "district_id": 676,
+      "name": "UZUNHÜSEYİN MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49448,
+      "district_id": 676,
+      "name": "YENİDAMLAR MAH",
+      "area": "KALE",
+      "postal_code": "44370"
+    },
+    {
+      "id": 49449,
+      "district_id": 677,
+      "name": "ALVAR MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49450,
+      "district_id": 677,
+      "name": "AŞAĞISELİMLİ MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49451,
+      "district_id": 677,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49452,
+      "district_id": 677,
+      "name": "BAŞÖREN MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49453,
+      "district_id": 677,
+      "name": "BİCİR MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49454,
+      "district_id": 677,
+      "name": "BIYIKBOĞAZI MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49455,
+      "district_id": 677,
+      "name": "BOĞAZİÇİ MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49456,
+      "district_id": 677,
+      "name": "ÇAYKÖY MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49457,
+      "district_id": 677,
+      "name": "CİRİTBELEN MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49458,
+      "district_id": 677,
+      "name": "ÇÖRMÜ MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49459,
+      "district_id": 677,
+      "name": "GÖĞEBAKAN MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49460,
+      "district_id": 677,
+      "name": "İLİSULUK MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49461,
+      "district_id": 677,
+      "name": "İSMETPAŞA MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49462,
+      "district_id": 677,
+      "name": "İSTİKLAL MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49463,
+      "district_id": 677,
+      "name": "KARABÜK MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49464,
+      "district_id": 677,
+      "name": "KARAÇAYIR MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49465,
+      "district_id": 677,
+      "name": "KARINCALIK MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49466,
+      "district_id": 677,
+      "name": "KARLIK MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49467,
+      "district_id": 677,
+      "name": "KAYNARCA MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49468,
+      "district_id": 677,
+      "name": "KIZILHİSAR MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49469,
+      "district_id": 677,
+      "name": "KIZILMAĞARA MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49470,
+      "district_id": 677,
+      "name": "KÖMÜKLÜ MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49471,
+      "district_id": 677,
+      "name": "KONAKTEPE MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49472,
+      "district_id": 677,
+      "name": "ORTAPINAR MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49473,
+      "district_id": 677,
+      "name": "SOFULAR MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49474,
+      "district_id": 677,
+      "name": "SULTANLI MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49475,
+      "district_id": 677,
+      "name": "TEMÜKLÜ MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49476,
+      "district_id": 677,
+      "name": "YENİ MAH",
+      "area": "KULUNCAK",
+      "postal_code": "44760"
+    },
+    {
+      "id": 49477,
+      "district_id": 678,
+      "name": "AĞALAR MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49478,
+      "district_id": 678,
+      "name": "AKTARLA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49479,
+      "district_id": 678,
+      "name": "ALİÇERİ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49480,
+      "district_id": 678,
+      "name": "ALİHAN MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49481,
+      "district_id": 678,
+      "name": "ARINLI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49482,
+      "district_id": 678,
+      "name": "ARITOPRAK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49483,
+      "district_id": 678,
+      "name": "ARSLANKENT MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49484,
+      "district_id": 678,
+      "name": "BAKIMLI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49485,
+      "district_id": 678,
+      "name": "BALPINARI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49486,
+      "district_id": 678,
+      "name": "BAŞMEZRA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49487,
+      "district_id": 678,
+      "name": "BAYIRKÖY MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49488,
+      "district_id": 678,
+      "name": "BELENKÖY MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49489,
+      "district_id": 678,
+      "name": "BÖLÜKKAYA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49490,
+      "district_id": 678,
+      "name": "BÖLÜNMEZ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49491,
+      "district_id": 678,
+      "name": "BÜYÜKÖZ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49492,
+      "district_id": 678,
+      "name": "ÇAMLIDERE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49493,
+      "district_id": 678,
+      "name": "ÇAYKÖY MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49494,
+      "district_id": 678,
+      "name": "ÇENGELLİ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49495,
+      "district_id": 678,
+      "name": "ÇIĞIRLI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49496,
+      "district_id": 678,
+      "name": "ÇUKUROYMAĞI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49497,
+      "district_id": 678,
+      "name": "DEREDÜZÜ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49498,
+      "district_id": 678,
+      "name": "ERDEMLER MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49499,
+      "district_id": 678,
+      "name": "ERSELE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49500,
+      "district_id": 678,
+      "name": "ESENCİK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49501,
+      "district_id": 678,
+      "name": "ESENLİK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49502,
+      "district_id": 678,
+      "name": "GERTAN MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49503,
+      "district_id": 678,
+      "name": "GÖZLÜCE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49504,
+      "district_id": 678,
+      "name": "GÜNDEĞER MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49505,
+      "district_id": 678,
+      "name": "GÜNDÜZ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49506,
+      "district_id": 678,
+      "name": "HATİP MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49507,
+      "district_id": 678,
+      "name": "KARAKAYA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49508,
+      "district_id": 678,
+      "name": "KARŞIYAKA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49509,
+      "district_id": 678,
+      "name": "KAVAKLIDERE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49510,
+      "district_id": 678,
+      "name": "KAYADERE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49511,
+      "district_id": 678,
+      "name": "KOÇKÖY MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49512,
+      "district_id": 678,
+      "name": "KÖKLÜKAYA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49513,
+      "district_id": 678,
+      "name": "KÖRME MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49514,
+      "district_id": 678,
+      "name": "KORUCAK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49515,
+      "district_id": 678,
+      "name": "KÖYLÜ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49516,
+      "district_id": 678,
+      "name": "KOZLUK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49517,
+      "district_id": 678,
+      "name": "MEŞEDİBİ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49518,
+      "district_id": 678,
+      "name": "NOHUTLU MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49519,
+      "district_id": 678,
+      "name": "ÖRENCİK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49520,
+      "district_id": 678,
+      "name": "ORMANİÇİ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49521,
+      "district_id": 678,
+      "name": "ÖRMELİ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49522,
+      "district_id": 678,
+      "name": "ÖRNEKKÖY MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49523,
+      "district_id": 678,
+      "name": "PAZARCIK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49524,
+      "district_id": 678,
+      "name": "POSKIRAN MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49525,
+      "district_id": 678,
+      "name": "SAHİLKÖY MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49526,
+      "district_id": 678,
+      "name": "ŞİRO TARAKSU MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49527,
+      "district_id": 678,
+      "name": "SÖĞÜTLÜ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49528,
+      "district_id": 678,
+      "name": "ŞÜKAN MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49529,
+      "district_id": 678,
+      "name": "TAŞBAŞI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49530,
+      "district_id": 678,
+      "name": "TAŞMIŞ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49531,
+      "district_id": 678,
+      "name": "TAŞTEPE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49532,
+      "district_id": 678,
+      "name": "TATLICAK MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49533,
+      "district_id": 678,
+      "name": "TEKEDERESİ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49534,
+      "district_id": 678,
+      "name": "TELUŞAĞI MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49535,
+      "district_id": 678,
+      "name": "TEPEHAN MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49536,
+      "district_id": 678,
+      "name": "ÜÇYAKA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49537,
+      "district_id": 678,
+      "name": "ULUTAŞ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49538,
+      "district_id": 678,
+      "name": "UZUNKORU MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49539,
+      "district_id": 678,
+      "name": "UZUNTAŞ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49540,
+      "district_id": 678,
+      "name": "YAMAÇ MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49541,
+      "district_id": 678,
+      "name": "YANDERE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49542,
+      "district_id": 678,
+      "name": "YAZICA MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49543,
+      "district_id": 678,
+      "name": "YEDİYOL MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49544,
+      "district_id": 678,
+      "name": "YEŞİLDERE MAH",
+      "area": "PÖTÜRGE",
+      "postal_code": "44850"
+    },
+    {
+      "id": 49545,
+      "district_id": 679,
+      "name": "AKYAZI MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49546,
+      "district_id": 679,
+      "name": "ALİCAN MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49547,
+      "district_id": 679,
+      "name": "AMBARCIK MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49548,
+      "district_id": 679,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49549,
+      "district_id": 679,
+      "name": "BALABAN MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49550,
+      "district_id": 679,
+      "name": "BEREKETLİ MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49551,
+      "district_id": 679,
+      "name": "BÖĞÜRTLEN MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49552,
+      "district_id": 679,
+      "name": "BOYACA MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49553,
+      "district_id": 679,
+      "name": "BOZTEPE MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49554,
+      "district_id": 679,
+      "name": "BUZLUK MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49555,
+      "district_id": 679,
+      "name": "ÇAVUŞ MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49556,
+      "district_id": 679,
+      "name": "ÇİVRİL MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49557,
+      "district_id": 679,
+      "name": "DEDEKARGIN MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49558,
+      "district_id": 679,
+      "name": "DOĞUŞ MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49559,
+      "district_id": 679,
+      "name": "DURUCASU MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49560,
+      "district_id": 679,
+      "name": "EĞRİBÜK MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49561,
+      "district_id": 679,
+      "name": "EPREME MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49562,
+      "district_id": 679,
+      "name": "ERECEK MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49563,
+      "district_id": 679,
+      "name": "FETHİYE MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49564,
+      "district_id": 679,
+      "name": "GAYRET MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49565,
+      "district_id": 679,
+      "name": "GÖVÜK MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49566,
+      "district_id": 679,
+      "name": "HAMİDİYE MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49567,
+      "district_id": 679,
+      "name": "İRİAĞAÇ MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49568,
+      "district_id": 679,
+      "name": "KARACA MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49569,
+      "district_id": 679,
+      "name": "KÖMÜŞHAN MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49570,
+      "district_id": 679,
+      "name": "KOŞAR MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49571,
+      "district_id": 679,
+      "name": "MISIRDERE MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49572,
+      "district_id": 679,
+      "name": "SADIKLI MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49573,
+      "district_id": 679,
+      "name": "SİNANLI MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49574,
+      "district_id": 679,
+      "name": "SÜRÜR MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49575,
+      "district_id": 679,
+      "name": "TAHTALI MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49576,
+      "district_id": 679,
+      "name": "TECİRLİ MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49577,
+      "district_id": 679,
+      "name": "YENİ MAH",
+      "area": "YAZIHAN",
+      "postal_code": "44350"
+    },
+    {
+      "id": 49578,
+      "district_id": 680,
+      "name": "1.OSB MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49579,
+      "district_id": 680,
+      "name": "2.OSB MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49580,
+      "district_id": 680,
+      "name": "ABDULGAFFAR MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49581,
+      "district_id": 680,
+      "name": "AŞAĞI BAĞLAR MAH",
+      "area": "ÖZALPER",
+      "postal_code": "44090"
+    },
+    {
+      "id": 49582,
+      "district_id": 680,
+      "name": "AŞAĞIKÖY MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49583,
+      "district_id": 680,
+      "name": "ATALAR MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49584,
+      "district_id": 680,
+      "name": "ATATÜRK MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49585,
+      "district_id": 680,
+      "name": "BANAZI MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49586,
+      "district_id": 680,
+      "name": "BENTBAŞI MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49587,
+      "district_id": 680,
+      "name": "BİNDAL MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49588,
+      "district_id": 680,
+      "name": "BOSTANBAŞI MAH",
+      "area": "BOSTANBAŞI",
+      "postal_code": "44915"
+    },
+    {
+      "id": 49589,
+      "district_id": 680,
+      "name": "CAFANA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49590,
+      "district_id": 680,
+      "name": "ÇARMUZU MAH",
+      "area": "ÇAVUŞOĞLU",
+      "postal_code": "44070"
+    },
+    {
+      "id": 49591,
+      "district_id": 680,
+      "name": "ÇAVUŞOĞLU MAH",
+      "area": "ÇAVUŞOĞLU",
+      "postal_code": "44070"
+    },
+    {
+      "id": 49592,
+      "district_id": 680,
+      "name": "ÇAYIRKÖY MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49593,
+      "district_id": 680,
+      "name": "CEMALGÜRSEL MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49594,
+      "district_id": 680,
+      "name": "CEVATPAŞA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49595,
+      "district_id": 680,
+      "name": "ÇİLESİZ MAH",
+      "area": "ÖZALPER",
+      "postal_code": "44090"
+    },
+    {
+      "id": 49596,
+      "district_id": 680,
+      "name": "ÇUKURDERE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49597,
+      "district_id": 680,
+      "name": "CUMHURİYET  MAH (YEŞİLYURT MAH)",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49598,
+      "district_id": 680,
+      "name": "CUMHURİYET MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49599,
+      "district_id": 680,
+      "name": "DİLEK MAH",
+      "area": "DİLEK",
+      "postal_code": "44180"
+    },
+    {
+      "id": 49600,
+      "district_id": 680,
+      "name": "DURANLAR MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49601,
+      "district_id": 680,
+      "name": "DURULDU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49602,
+      "district_id": 680,
+      "name": "FATİH MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49603,
+      "district_id": 680,
+      "name": "GAZİ MAH",
+      "area": "YEŞİLTEPE",
+      "postal_code": "44080"
+    },
+    {
+      "id": 49604,
+      "district_id": 680,
+      "name": "GEDİK MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49605,
+      "district_id": 680,
+      "name": "GÖKTARLA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49606,
+      "district_id": 680,
+      "name": "GÖZENE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49607,
+      "district_id": 680,
+      "name": "GÜNDÜZBEY MAH",
+      "area": "GÜNDÜZBEY",
+      "postal_code": "44910"
+    },
+    {
+      "id": 49608,
+      "district_id": 680,
+      "name": "HAMİDİYE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49609,
+      "district_id": 680,
+      "name": "HIROĞLU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49610,
+      "district_id": 680,
+      "name": "HOCA AHMET YESEVİ MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49611,
+      "district_id": 680,
+      "name": "HORATA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49612,
+      "district_id": 680,
+      "name": "İKİZCE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49613,
+      "district_id": 680,
+      "name": "İLYAS MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49614,
+      "district_id": 680,
+      "name": "İNÖNÜ MAH",
+      "area": "ÇAVUŞOĞLU",
+      "postal_code": "44070"
+    },
+    {
+      "id": 49615,
+      "district_id": 680,
+      "name": "IŞIKLI MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49616,
+      "district_id": 680,
+      "name": "KADİRUŞAĞI MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49617,
+      "district_id": 680,
+      "name": "KARAHAN MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49618,
+      "district_id": 680,
+      "name": "KARAKAVAK MAH",
+      "area": "KARAKAVAK",
+      "postal_code": "44110"
+    },
+    {
+      "id": 49619,
+      "district_id": 680,
+      "name": "KAYNARCA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49620,
+      "district_id": 680,
+      "name": "KENDİRLİ MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49621,
+      "district_id": 680,
+      "name": "KİLTEPE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49622,
+      "district_id": 680,
+      "name": "KIRKPINAR MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49623,
+      "district_id": 680,
+      "name": "KIRLANGIÇ MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49624,
+      "district_id": 680,
+      "name": "KONAK MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49625,
+      "district_id": 680,
+      "name": "KOŞU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49626,
+      "district_id": 680,
+      "name": "KOYUNOĞLU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49627,
+      "district_id": 680,
+      "name": "KOZLUK MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49628,
+      "district_id": 680,
+      "name": "KUŞDOĞAN MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49629,
+      "district_id": 680,
+      "name": "KUYULU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49630,
+      "district_id": 680,
+      "name": "MAHMUTLU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49631,
+      "district_id": 680,
+      "name": "MELEKBABA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49632,
+      "district_id": 680,
+      "name": "MERKEZ FATİH MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49633,
+      "district_id": 680,
+      "name": "MULLAKASIM MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49634,
+      "district_id": 680,
+      "name": "OLUKLU MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49635,
+      "district_id": 680,
+      "name": "ÖNCÜ MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49636,
+      "district_id": 680,
+      "name": "ORTAKÖY MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49637,
+      "district_id": 680,
+      "name": "ÖZAL MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49638,
+      "district_id": 680,
+      "name": "ÖZALPER MAH",
+      "area": "ÖZALPER",
+      "postal_code": "44090"
+    },
+    {
+      "id": 49639,
+      "district_id": 680,
+      "name": "ŞAHNAHAN MAH",
+      "area": "ŞAHNAHAN",
+      "postal_code": "44315"
+    },
+    {
+      "id": 49640,
+      "district_id": 680,
+      "name": "SALKONAK MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49641,
+      "district_id": 680,
+      "name": "SALKÖPRÜ MAH",
+      "area": "ÇAVUŞOĞLU",
+      "postal_code": "44070"
+    },
+    {
+      "id": 49642,
+      "district_id": 680,
+      "name": "SAMANKÖY MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49643,
+      "district_id": 680,
+      "name": "SAMANLI MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49644,
+      "district_id": 680,
+      "name": "ŞEYH BAYRAM MAH",
+      "area": "ÖZALPER",
+      "postal_code": "44090"
+    },
+    {
+      "id": 49645,
+      "district_id": 680,
+      "name": "SEYİTUŞAĞI MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49646,
+      "district_id": 680,
+      "name": "SEYRAN MAH",
+      "area": "YEŞİLTEPE",
+      "postal_code": "44080"
+    },
+    {
+      "id": 49647,
+      "district_id": 680,
+      "name": "SULUKÖY MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49648,
+      "district_id": 680,
+      "name": "SÜTLÜCE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49649,
+      "district_id": 680,
+      "name": "TECDE MAH",
+      "area": "ÖZALPER",
+      "postal_code": "44090"
+    },
+    {
+      "id": 49650,
+      "district_id": 680,
+      "name": "TEPEKÖY MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49651,
+      "district_id": 680,
+      "name": "TOHMA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49652,
+      "district_id": 680,
+      "name": "TOPRAKTEPE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49653,
+      "district_id": 680,
+      "name": "TOPSÖĞÜT MAH",
+      "area": "TOPSÖĞÜT",
+      "postal_code": "44310"
+    },
+    {
+      "id": 49654,
+      "district_id": 680,
+      "name": "TURGUT ÖZAL MAH",
+      "area": "ÖZALPER",
+      "postal_code": "44090"
+    },
+    {
+      "id": 49655,
+      "district_id": 680,
+      "name": "ÜÇGÖZE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49656,
+      "district_id": 680,
+      "name": "YAKA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49657,
+      "district_id": 680,
+      "name": "YAKINCA MAH",
+      "area": "YAKINCA",
+      "postal_code": "44920"
+    },
+    {
+      "id": 49658,
+      "district_id": 680,
+      "name": "YALINKAYA MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49659,
+      "district_id": 680,
+      "name": "YAVUZ SELİM MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    },
+    {
+      "id": 49660,
+      "district_id": 680,
+      "name": "YEŞİLKAYNAK MAH",
+      "area": "YEŞİLTEPE",
+      "postal_code": "44080"
+    },
+    {
+      "id": 49661,
+      "district_id": 680,
+      "name": "ZAVİYE MAH",
+      "area": "YEŞİLYURT",
+      "postal_code": "44900"
+    }
+  ]
+}

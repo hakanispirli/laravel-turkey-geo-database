@@ -1,0 +1,2979 @@
+{
+  "neighborhoods": [
+    {
+      "id": 39037,
+      "district_id": 534,
+      "name": "AĞIZBOĞAZ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39038,
+      "district_id": 534,
+      "name": "AKOLUK MAH (BERENDİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39039,
+      "district_id": 534,
+      "name": "AKPINAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39040,
+      "district_id": 534,
+      "name": "AMBAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39041,
+      "district_id": 534,
+      "name": "ANDIKARA MAH (AKPINAR KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39042,
+      "district_id": 534,
+      "name": "AŞAĞI KIRAMANOĞLU MAH (BERENDİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39043,
+      "district_id": 534,
+      "name": "BAŞÇAYIR MAH (KAVAKÖZÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39044,
+      "district_id": 534,
+      "name": "BERENDİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39045,
+      "district_id": 534,
+      "name": "BÖĞECİK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39046,
+      "district_id": 534,
+      "name": "BUĞDAYLI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39047,
+      "district_id": 534,
+      "name": "BÜYÜKKORAŞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39048,
+      "district_id": 534,
+      "name": "ÇATKÖY KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39049,
+      "district_id": 534,
+      "name": "DEDE MAH",
+      "area": "AYRANCI",
+      "postal_code": "70500"
+    },
+    {
+      "id": 39050,
+      "district_id": 534,
+      "name": "DİVLE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39051,
+      "district_id": 534,
+      "name": "DOKUZYOL KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39052,
+      "district_id": 534,
+      "name": "ELFETİN MAH (KAVAKÖZÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39053,
+      "district_id": 534,
+      "name": "GÜNEYDAĞI MAH (DİVLE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39054,
+      "district_id": 534,
+      "name": "HÜYÜKBURUN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39055,
+      "district_id": 534,
+      "name": "KALEKÖY KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39056,
+      "district_id": 534,
+      "name": "KARAAĞAÇ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39057,
+      "district_id": 534,
+      "name": "KAVAKÖZÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39058,
+      "district_id": 534,
+      "name": "KAVUKLAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39059,
+      "district_id": 534,
+      "name": "KAYAÖNÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39060,
+      "district_id": 534,
+      "name": "KEŞİR MAH (BERENDİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39061,
+      "district_id": 534,
+      "name": "KIRAMAN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39062,
+      "district_id": 534,
+      "name": "KIRAMANOĞLU MAH (BERENDİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39063,
+      "district_id": 534,
+      "name": "KÜÇÜKKORAŞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39064,
+      "district_id": 534,
+      "name": "MELİKLİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39065,
+      "district_id": 534,
+      "name": "MUSA MAH",
+      "area": "AYRANCI",
+      "postal_code": "70500"
+    },
+    {
+      "id": 39066,
+      "district_id": 534,
+      "name": "PINARKAYA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39067,
+      "district_id": 534,
+      "name": "SARAYKÖY KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39068,
+      "district_id": 534,
+      "name": "SARIKAYA MAH (BERENDİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39069,
+      "district_id": 534,
+      "name": "SAVRAN MAH (BÖĞECİK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39070,
+      "district_id": 534,
+      "name": "ULU MAH",
+      "area": "AYRANCI",
+      "postal_code": "70500"
+    },
+    {
+      "id": 39071,
+      "district_id": 534,
+      "name": "YARIKKUYU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70502"
+    },
+    {
+      "id": 39072,
+      "district_id": 534,
+      "name": "YENİ MAH",
+      "area": "AYRANCI",
+      "postal_code": "70500"
+    },
+    {
+      "id": 39073,
+      "district_id": 535,
+      "name": "BAŞKÖY MAH",
+      "area": "BAŞYAYLA",
+      "postal_code": "70700"
+    },
+    {
+      "id": 39074,
+      "district_id": 535,
+      "name": "BOZYAKA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70702"
+    },
+    {
+      "id": 39075,
+      "district_id": 535,
+      "name": "BÜYÜKKARAPINAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70702"
+    },
+    {
+      "id": 39076,
+      "district_id": 535,
+      "name": "GÖZTEPE MAH",
+      "area": "BAŞYAYLA",
+      "postal_code": "70700"
+    },
+    {
+      "id": 39077,
+      "district_id": 535,
+      "name": "KİRAZLIYAYLA MAH",
+      "area": "BAŞYAYLA",
+      "postal_code": "70700"
+    },
+    {
+      "id": 39078,
+      "district_id": 535,
+      "name": "KIŞLAKÖY KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70702"
+    },
+    {
+      "id": 39079,
+      "district_id": 535,
+      "name": "ŞİRİNDERE MAH",
+      "area": "BAŞYAYLA",
+      "postal_code": "70700"
+    },
+    {
+      "id": 39080,
+      "district_id": 535,
+      "name": "SÖĞÜTLÜ MAH (ÜZÜMLÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70702"
+    },
+    {
+      "id": 39081,
+      "district_id": 535,
+      "name": "ÜZÜMLÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70702"
+    },
+    {
+      "id": 39082,
+      "district_id": 535,
+      "name": "YENİCE MAH (KIŞLAKÖY KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70702"
+    },
+    {
+      "id": 39083,
+      "district_id": 535,
+      "name": "YENİMAHALLE MAH",
+      "area": "BAŞYAYLA",
+      "postal_code": "70700"
+    },
+    {
+      "id": 39084,
+      "district_id": 536,
+      "name": "590711 MAH (BALKUSAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39085,
+      "district_id": 536,
+      "name": "AĞAÇÇATI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39086,
+      "district_id": 536,
+      "name": "AKCAMESCİT MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39087,
+      "district_id": 536,
+      "name": "ARALIK MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39088,
+      "district_id": 536,
+      "name": "AŞAĞI MAH (SARIVADİ KÖYÜ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39089,
+      "district_id": 536,
+      "name": "AŞAĞIÇAĞLAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39090,
+      "district_id": 536,
+      "name": "AVCILAR MAH (EVSİN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39091,
+      "district_id": 536,
+      "name": "BALKUSAN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39092,
+      "district_id": 536,
+      "name": "BAŞPINAR MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39093,
+      "district_id": 536,
+      "name": "BELEN MAH (GÖKÇESEKİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39094,
+      "district_id": 536,
+      "name": "BELEN MAH (YALINDAL KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39095,
+      "district_id": 536,
+      "name": "BELİÇEKKOZ MAH (İKİZÇINAR KÖYÜ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39096,
+      "district_id": 536,
+      "name": "BOYALIK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39097,
+      "district_id": 536,
+      "name": "BOZYAKA MAH (ELMAYURDU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39098,
+      "district_id": 536,
+      "name": "BUCAK MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39099,
+      "district_id": 536,
+      "name": "CAMİ MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39100,
+      "district_id": 536,
+      "name": "ÇAMLICA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39101,
+      "district_id": 536,
+      "name": "ÇARIKLI MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39102,
+      "district_id": 536,
+      "name": "ÇATALARMUT MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39103,
+      "district_id": 536,
+      "name": "ÇATALBADEM MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39104,
+      "district_id": 536,
+      "name": "ÇAVUŞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39105,
+      "district_id": 536,
+      "name": "ÇAYIRLIALAN MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39106,
+      "district_id": 536,
+      "name": "ÇINARLISU MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39107,
+      "district_id": 536,
+      "name": "DEĞİRMEN MAH (ARDIÇKAYA KÖYÜ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39108,
+      "district_id": 536,
+      "name": "DEĞİRMENLİK MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39109,
+      "district_id": 536,
+      "name": "ESKİCE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39110,
+      "district_id": 536,
+      "name": "EVSİN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39111,
+      "district_id": 536,
+      "name": "GÖBETTE MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39112,
+      "district_id": 536,
+      "name": "GÖKÇEKENT KÖYÜ",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39113,
+      "district_id": 536,
+      "name": "GÖKCELER MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39114,
+      "district_id": 536,
+      "name": "GÖKÇESEKİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39115,
+      "district_id": 536,
+      "name": "GÜLLÜK MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39116,
+      "district_id": 536,
+      "name": "GÜLPAZAR MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39117,
+      "district_id": 536,
+      "name": "GÜNERİ MAH (YALINDAL KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39118,
+      "district_id": 536,
+      "name": "GÜNEY MAH (AŞAĞIÇAĞLAR KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39119,
+      "district_id": 536,
+      "name": "HABİB MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39120,
+      "district_id": 536,
+      "name": "HARMANBAĞI MAH (AŞAĞIÇAĞLAR KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39121,
+      "district_id": 536,
+      "name": "HATİLLA MAH (ELMAYURDU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39122,
+      "district_id": 536,
+      "name": "HAVUZ MERKEZ MAH (İKİZÇINAR KÖYÜ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39123,
+      "district_id": 536,
+      "name": "İĞDEYAKASI MAH (YALINDAL KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39124,
+      "district_id": 536,
+      "name": "KARALAR MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39125,
+      "district_id": 536,
+      "name": "KATRANLI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39126,
+      "district_id": 536,
+      "name": "KAYAÖNÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39127,
+      "district_id": 536,
+      "name": "KEBENDİBİ MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39128,
+      "district_id": 536,
+      "name": "KEÇİPAZAR MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39129,
+      "district_id": 536,
+      "name": "KEŞİLLİK MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39130,
+      "district_id": 536,
+      "name": "KIŞLA MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39131,
+      "district_id": 536,
+      "name": "KIŞLACIK MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39132,
+      "district_id": 536,
+      "name": "KIZILALAN MAH (GÖKÇESEKİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39133,
+      "district_id": 536,
+      "name": "KÖPRÜBAŞI MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39134,
+      "district_id": 536,
+      "name": "KÖPRÜBAŞI MAH (KAYAÖNÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39135,
+      "district_id": 536,
+      "name": "KÖYYAKASI MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39136,
+      "district_id": 536,
+      "name": "KUMYAKA MAH (ELMAYURDU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39137,
+      "district_id": 536,
+      "name": "MERKEZ MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39138,
+      "district_id": 536,
+      "name": "MEYDAN MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39139,
+      "district_id": 536,
+      "name": "MEZARLIALAN MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39140,
+      "district_id": 536,
+      "name": "NİSA MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39141,
+      "district_id": 536,
+      "name": "ODA MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39142,
+      "district_id": 536,
+      "name": "OLUKPINAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39143,
+      "district_id": 536,
+      "name": "ORTA MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39144,
+      "district_id": 536,
+      "name": "ORTA MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39145,
+      "district_id": 536,
+      "name": "PAMUKLU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39146,
+      "district_id": 536,
+      "name": "PINARGÖZÜ MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39147,
+      "district_id": 536,
+      "name": "PINARÖNÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39148,
+      "district_id": 536,
+      "name": "ŞAHİNLER MAH (YERBAĞ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39149,
+      "district_id": 536,
+      "name": "SANDIKLI MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39150,
+      "district_id": 536,
+      "name": "SEYRAN MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39151,
+      "district_id": 536,
+      "name": "SUSAKLI MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39152,
+      "district_id": 536,
+      "name": "TAŞBAŞI MAH",
+      "area": "ERMENEK",
+      "postal_code": "70400"
+    },
+    {
+      "id": 39153,
+      "district_id": 536,
+      "name": "TAŞTEKNE MAH (TEPEBAŞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39154,
+      "district_id": 536,
+      "name": "TEKKE MAH (GÖRMELİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39155,
+      "district_id": 536,
+      "name": "TEPEBAŞI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39156,
+      "district_id": 536,
+      "name": "TEPECİK MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39157,
+      "district_id": 536,
+      "name": "TÜRBESEKİ MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39158,
+      "district_id": 536,
+      "name": "ÜLÜĞER MAH (PAMUKLU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39159,
+      "district_id": 536,
+      "name": "ULUKÖY MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39160,
+      "district_id": 536,
+      "name": "YAYLAPAZARI KÖYÜ",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39161,
+      "district_id": 536,
+      "name": "YENİMAHALLE MAH (GÜNEYYURT BELDESİ)",
+      "area": "GÜNEYYURT",
+      "postal_code": "70450"
+    },
+    {
+      "id": 39162,
+      "district_id": 536,
+      "name": "YERBAĞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39163,
+      "district_id": 536,
+      "name": "YEŞİLKÖY KÖYÜ",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39164,
+      "district_id": 536,
+      "name": "YOLÇATI MAH (ELMAYURDU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39165,
+      "district_id": 536,
+      "name": "YUKARI MAH (KAZANCI BELDESİ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39166,
+      "district_id": 536,
+      "name": "YUKARI MAH (SARIVADİ KÖYÜ)",
+      "area": "KAZANCI",
+      "postal_code": "70460"
+    },
+    {
+      "id": 39167,
+      "district_id": 536,
+      "name": "YUKARIÇAĞLAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70402"
+    },
+    {
+      "id": 39168,
+      "district_id": 537,
+      "name": "AKARKÖY KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70602"
+    },
+    {
+      "id": 39169,
+      "district_id": 537,
+      "name": "BOYACI MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39170,
+      "district_id": 537,
+      "name": "EMİNETTİN MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39171,
+      "district_id": 537,
+      "name": "EMSALHAYAT MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39172,
+      "district_id": 537,
+      "name": "KARALGAZİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70602"
+    },
+    {
+      "id": 39173,
+      "district_id": 537,
+      "name": "KIZILKUYU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70602"
+    },
+    {
+      "id": 39174,
+      "district_id": 537,
+      "name": "MECİDİYE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70602"
+    },
+    {
+      "id": 39175,
+      "district_id": 537,
+      "name": "OBA MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39176,
+      "district_id": 537,
+      "name": "ÖZYURT KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70602"
+    },
+    {
+      "id": 39177,
+      "district_id": 537,
+      "name": "PAZAR MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39178,
+      "district_id": 537,
+      "name": "SELÇUKLU MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39179,
+      "district_id": 537,
+      "name": "SİNCİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70602"
+    },
+    {
+      "id": 39180,
+      "district_id": 537,
+      "name": "SUBAŞI MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39181,
+      "district_id": 537,
+      "name": "TİMSAL MAH",
+      "area": "KAZIMKARABEKİR",
+      "postal_code": "70600"
+    },
+    {
+      "id": 39182,
+      "district_id": 538,
+      "name": "ABBAS MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39183,
+      "district_id": 538,
+      "name": "ADA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39184,
+      "district_id": 538,
+      "name": "ADAYSIZ MAH (CERİT KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39185,
+      "district_id": 538,
+      "name": "AĞAÇLI MAH (ERENKAVAK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39186,
+      "district_id": 538,
+      "name": "AĞAÇYURDU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39187,
+      "district_id": 538,
+      "name": "AĞILÖNÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39188,
+      "district_id": 538,
+      "name": "AHİOSMAN MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39189,
+      "district_id": 538,
+      "name": "AHMET YESEVİ MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39190,
+      "district_id": 538,
+      "name": "AKÇAALAN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39191,
+      "district_id": 538,
+      "name": "AKPINAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39192,
+      "district_id": 538,
+      "name": "ALACASULUK MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39193,
+      "district_id": 538,
+      "name": "ALAÇATI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39194,
+      "district_id": 538,
+      "name": "ALİAĞA MAH (TAŞKALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39195,
+      "district_id": 538,
+      "name": "ALİŞAHANE MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39196,
+      "district_id": 538,
+      "name": "ARAKÖY MAH (CERİT KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39197,
+      "district_id": 538,
+      "name": "ARNAVUT MAH (KOZLUBUCAK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39198,
+      "district_id": 538,
+      "name": "AŞAĞI MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39199,
+      "district_id": 538,
+      "name": "AŞAĞI MAH (İHSANİYE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39200,
+      "district_id": 538,
+      "name": "AŞAĞI MAH (PAŞABAĞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39201,
+      "district_id": 538,
+      "name": "AŞAĞI YAYLA MAH (ORTAOBA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39202,
+      "district_id": 538,
+      "name": "AŞAĞIAKIN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39203,
+      "district_id": 538,
+      "name": "AŞAĞIKIZILCA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39204,
+      "district_id": 538,
+      "name": "ATATÜRK MAH",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39205,
+      "district_id": 538,
+      "name": "ATATÜRK MAH (AKÇAŞEHİR BELDESİ)",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39206,
+      "district_id": 538,
+      "name": "ATATÜRK MAH (KILBASAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39207,
+      "district_id": 538,
+      "name": "ATATÜRK MAH (KİSECİK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39208,
+      "district_id": 538,
+      "name": "ATATÜRK MAH (TAŞKALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39209,
+      "district_id": 538,
+      "name": "AYBASTI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39210,
+      "district_id": 538,
+      "name": "BADEMLİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39211,
+      "district_id": 538,
+      "name": "BAĞDAT MAH (AKÇAALAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39212,
+      "district_id": 538,
+      "name": "BAĞLIBÜK MAH (ELMADAĞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39213,
+      "district_id": 538,
+      "name": "BAĞLIK MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39214,
+      "district_id": 538,
+      "name": "BAHÇELİEVLER MAH",
+      "area": "SUDURAĞI",
+      "postal_code": "70140"
+    },
+    {
+      "id": 39215,
+      "district_id": 538,
+      "name": "BAHÇELİEVLER MAH (PINARBAŞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39216,
+      "district_id": 538,
+      "name": "BAHÇELİEVLER MAH (SUDURAĞI BELDESİ)",
+      "area": "SUDURAĞI",
+      "postal_code": "70140"
+    },
+    {
+      "id": 39217,
+      "district_id": 538,
+      "name": "BARUTKAVURAN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39218,
+      "district_id": 538,
+      "name": "BAŞAKŞEHİR MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39219,
+      "district_id": 538,
+      "name": "BAŞKIŞLA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39220,
+      "district_id": 538,
+      "name": "BAYATDÜZÜ MAH (ELMADAĞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39221,
+      "district_id": 538,
+      "name": "BAYIR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39222,
+      "district_id": 538,
+      "name": "BELVARYOLU MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39223,
+      "district_id": 538,
+      "name": "BEYAZKENT MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39224,
+      "district_id": 538,
+      "name": "BEYDİLİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39225,
+      "district_id": 538,
+      "name": "BÖLÜKYAZI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39226,
+      "district_id": 538,
+      "name": "BOSTANÖZÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39227,
+      "district_id": 538,
+      "name": "BOYACI MAH (KILBASAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39228,
+      "district_id": 538,
+      "name": "BOYALI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39229,
+      "district_id": 538,
+      "name": "BOZKANDAK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39230,
+      "district_id": 538,
+      "name": "BUCAKKIŞLA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39231,
+      "district_id": 538,
+      "name": "ÇAKIRBAĞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39232,
+      "district_id": 538,
+      "name": "ÇAKIRDAĞ MAH (BURUNOBA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39233,
+      "district_id": 538,
+      "name": "CAMİKEBİR MAH (YOLLARBAŞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39234,
+      "district_id": 538,
+      "name": "ÇAMLIK MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39235,
+      "district_id": 538,
+      "name": "ÇARŞI MAH (KILBASAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39236,
+      "district_id": 538,
+      "name": "ÇATAK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39237,
+      "district_id": 538,
+      "name": "ÇAVUŞPINARI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39238,
+      "district_id": 538,
+      "name": "CEDİT MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39239,
+      "district_id": 538,
+      "name": "ÇELTEK MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39240,
+      "district_id": 538,
+      "name": "ÇİĞDEMLİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39241,
+      "district_id": 538,
+      "name": "ÇIKMAZ MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39242,
+      "district_id": 538,
+      "name": "ÇİMEN MAH (NARLIDERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39243,
+      "district_id": 538,
+      "name": "ÇİMENKUYU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39244,
+      "district_id": 538,
+      "name": "ÇOĞLU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39245,
+      "district_id": 538,
+      "name": "ÇUKUR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39246,
+      "district_id": 538,
+      "name": "ÇUKURBAĞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39247,
+      "district_id": 538,
+      "name": "CUMHURİYET MAH",
+      "area": "SUDURAĞI",
+      "postal_code": "70140"
+    },
+    {
+      "id": 39248,
+      "district_id": 538,
+      "name": "CUMHURİYET MAH (KİSECİK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39249,
+      "district_id": 538,
+      "name": "CUMHURİYET MAH (SUDURAĞI BELDESİ)",
+      "area": "SUDURAĞI",
+      "postal_code": "70140"
+    },
+    {
+      "id": 39250,
+      "district_id": 538,
+      "name": "CUMHURİYET MAH (SÜLEYMANHACI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39251,
+      "district_id": 538,
+      "name": "DAĞKONAK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39252,
+      "district_id": 538,
+      "name": "DAMLAPINAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39253,
+      "district_id": 538,
+      "name": "DEĞİRMENBAŞI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39254,
+      "district_id": 538,
+      "name": "DEMİRYURT KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39255,
+      "district_id": 538,
+      "name": "DENİRCİK MAH (YEŞİLDERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39256,
+      "district_id": 538,
+      "name": "DERE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39257,
+      "district_id": 538,
+      "name": "DEVELİ MAH (ELMADAĞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39258,
+      "district_id": 538,
+      "name": "DİNEK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39259,
+      "district_id": 538,
+      "name": "DUMA MAH (MORCALI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39260,
+      "district_id": 538,
+      "name": "DUTLUPINAR MAH (BADEMLİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39261,
+      "district_id": 538,
+      "name": "DÜZ MAH (KAMENİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39262,
+      "district_id": 538,
+      "name": "EGİLMEZ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39263,
+      "district_id": 538,
+      "name": "ELMAŞEHİR MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39264,
+      "district_id": 538,
+      "name": "EMİNLER KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39265,
+      "district_id": 538,
+      "name": "ESENTEPE MAH (ÇAKIRBAĞ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39266,
+      "district_id": 538,
+      "name": "ESKİKÖY MAH (AYBASTI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39267,
+      "district_id": 538,
+      "name": "FATİH MAH",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39268,
+      "district_id": 538,
+      "name": "FATİH MAH (AKÇAŞEHİR BELDESİ)",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39269,
+      "district_id": 538,
+      "name": "FENARİ MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39270,
+      "district_id": 538,
+      "name": "GAZİ MAH (AKÇAŞEHİR BELDESİ)",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39271,
+      "district_id": 538,
+      "name": "GAZİDÜKKAN MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39272,
+      "district_id": 538,
+      "name": "GEVHER HATUN MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39273,
+      "district_id": 538,
+      "name": "GÖÇER KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39274,
+      "district_id": 538,
+      "name": "GÖKÇE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39275,
+      "district_id": 538,
+      "name": "GÖKÇEPINAR MAH (BAYIR KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39276,
+      "district_id": 538,
+      "name": "GÖZTEPE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39277,
+      "district_id": 538,
+      "name": "GÜÇLER KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39278,
+      "district_id": 538,
+      "name": "GÜLDERE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39279,
+      "district_id": 538,
+      "name": "GÜLKAYA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39280,
+      "district_id": 538,
+      "name": "GÜMÜŞKUYU MAH (ÖZDEMİR KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39281,
+      "district_id": 538,
+      "name": "HABACI MAH (ÇUKURBAĞ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39282,
+      "district_id": 538,
+      "name": "HACI İLYAS MAH (YEŞİLDERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39283,
+      "district_id": 538,
+      "name": "HACI İLYAS MAH (YOLLARBAŞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39284,
+      "district_id": 538,
+      "name": "HACIBAYRAM MAH (YEŞİLDERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39285,
+      "district_id": 538,
+      "name": "HACICELAL MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39286,
+      "district_id": 538,
+      "name": "HAMİDİYE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39287,
+      "district_id": 538,
+      "name": "HAMİDİYE MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39288,
+      "district_id": 538,
+      "name": "HARMAN MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39289,
+      "district_id": 538,
+      "name": "HİNSAR MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39290,
+      "district_id": 538,
+      "name": "HİSAR MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39291,
+      "district_id": 538,
+      "name": "HÜRRİYET MAH",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39292,
+      "district_id": 538,
+      "name": "HÜRRİYET MAH (AKÇAŞEHİR BELDESİ)",
+      "area": "AKÇAŞEHİR",
+      "postal_code": "70110"
+    },
+    {
+      "id": 39293,
+      "district_id": 538,
+      "name": "İBRAHİM FAKI MAH (YOLLARBAŞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39294,
+      "district_id": 538,
+      "name": "İBRAHİM HAKKI KONYALI MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39295,
+      "district_id": 538,
+      "name": "İMAMLAR MAH (KILBASAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39296,
+      "district_id": 538,
+      "name": "İMAMOĞLU MAH (KILBASAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39297,
+      "district_id": 538,
+      "name": "İMARET MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39298,
+      "district_id": 538,
+      "name": "İSLİHİSAR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39299,
+      "district_id": 538,
+      "name": "İSTASYON MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39300,
+      "district_id": 538,
+      "name": "İSTASYON MAH (DEMİRYURT KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39301,
+      "district_id": 538,
+      "name": "KALABA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39302,
+      "district_id": 538,
+      "name": "KAMENİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39303,
+      "district_id": 538,
+      "name": "KARACAÖREN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39304,
+      "district_id": 538,
+      "name": "KARAMANOĞLU MEHMET BEY MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39305,
+      "district_id": 538,
+      "name": "KARAMANOĞLU MEHMET BEY MAH (KILBASAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39306,
+      "district_id": 538,
+      "name": "KAŞIKÇI MAH (CERİT KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39307,
+      "district_id": 538,
+      "name": "KASIM MESCİT MAH (TAŞKALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39308,
+      "district_id": 538,
+      "name": "KAŞOBA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39309,
+      "district_id": 538,
+      "name": "KAYAÖNÜ MAH (YEŞİLDERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39310,
+      "district_id": 538,
+      "name": "KAYAPINAR MAH (GÖÇER KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39311,
+      "district_id": 538,
+      "name": "KAYNAR MAH (LALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39312,
+      "district_id": 538,
+      "name": "KAZIM KARABEKİR PAŞA MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39313,
+      "district_id": 538,
+      "name": "KETENCİ MAH (SUDURAĞI BELDESİ)",
+      "area": "SUDURAĞI",
+      "postal_code": "70140"
+    },
+    {
+      "id": 39314,
+      "district_id": 538,
+      "name": "KIR MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39315,
+      "district_id": 538,
+      "name": "KIRBAĞI MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39316,
+      "district_id": 538,
+      "name": "KİRİŞÇİ MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39317,
+      "district_id": 538,
+      "name": "KIZIK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39318,
+      "district_id": 538,
+      "name": "KIZILLARAĞINI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39319,
+      "district_id": 538,
+      "name": "KIZILYAKA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39320,
+      "district_id": 538,
+      "name": "KOÇAKDEDE MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39321,
+      "district_id": 538,
+      "name": "KOVALIÖZ MAH (DEĞİRMENBAŞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39322,
+      "district_id": 538,
+      "name": "KOZLUBUCAK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39323,
+      "district_id": 538,
+      "name": "KÜLHAN MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39324,
+      "district_id": 538,
+      "name": "KUMOBA MAH (ÇOĞLU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39325,
+      "district_id": 538,
+      "name": "KURTDERESİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39326,
+      "district_id": 538,
+      "name": "KURUCABEL KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39327,
+      "district_id": 538,
+      "name": "LALE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39328,
+      "district_id": 538,
+      "name": "LARENDE MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39329,
+      "district_id": 538,
+      "name": "MADENŞEHRİ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39330,
+      "district_id": 538,
+      "name": "MAHMUDİYE MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39331,
+      "district_id": 538,
+      "name": "MANSURDEDE MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39332,
+      "district_id": 538,
+      "name": "MAŞAT MAH (CERİT KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39333,
+      "district_id": 538,
+      "name": "MEDRESELİK KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39334,
+      "district_id": 538,
+      "name": "MEHMET AKİF ERSOY MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39335,
+      "district_id": 538,
+      "name": "MERKEZ MAH (BURUNOBA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39336,
+      "district_id": 538,
+      "name": "MERKEZ MAH (CERİT KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39337,
+      "district_id": 538,
+      "name": "MERKEZ MAH (DERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39338,
+      "district_id": 538,
+      "name": "MERKEZ MAH (EKİNÖZÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39339,
+      "district_id": 538,
+      "name": "MERKEZ MAH (ELMADAĞI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39340,
+      "district_id": 538,
+      "name": "MERKEZ MAH (ERENKAVAK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39341,
+      "district_id": 538,
+      "name": "MERKEZ MAH (ORTAOBA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39342,
+      "district_id": 538,
+      "name": "MERKEZ MAH (ÜÇKUYU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39343,
+      "district_id": 538,
+      "name": "MESUDİYE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39344,
+      "district_id": 538,
+      "name": "MORCALI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39345,
+      "district_id": 538,
+      "name": "MÜMİNE HATUN MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39346,
+      "district_id": 538,
+      "name": "MURATDEDE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39347,
+      "district_id": 538,
+      "name": "MUSALLA MAH (BURHAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39348,
+      "district_id": 538,
+      "name": "NARLIDERE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39349,
+      "district_id": 538,
+      "name": "NEFİSE SULTAN MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39350,
+      "district_id": 538,
+      "name": "NUNU MAH (ÇATAK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39351,
+      "district_id": 538,
+      "name": "ORGANİZE SANAYİİ BÖLGESİ MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39352,
+      "district_id": 538,
+      "name": "ORTACAMİ MAH (TAŞKALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39353,
+      "district_id": 538,
+      "name": "OSMANGAZİ MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39354,
+      "district_id": 538,
+      "name": "OSMANİYE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39355,
+      "district_id": 538,
+      "name": "OTUK YAYLA MAH (KALABA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39356,
+      "district_id": 538,
+      "name": "ÖZALAN MAH (LALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39357,
+      "district_id": 538,
+      "name": "ÖZDEMİR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39358,
+      "district_id": 538,
+      "name": "PAMUKDERE MAH (GÖÇER KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39359,
+      "district_id": 538,
+      "name": "PAŞABAĞI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39360,
+      "district_id": 538,
+      "name": "PELİTLİ MAH (ÖZDEMİR KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39361,
+      "district_id": 538,
+      "name": "PERENTİ MAH (EKİNÖZÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39362,
+      "district_id": 538,
+      "name": "PINARBAŞI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39363,
+      "district_id": 538,
+      "name": "PİRİREİS MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39364,
+      "district_id": 538,
+      "name": "RAUF DENKTAŞ MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39365,
+      "district_id": 538,
+      "name": "ŞAHİNBÜKÜ MAH (ÇATAK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39366,
+      "district_id": 538,
+      "name": "SAKABAŞI MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39367,
+      "district_id": 538,
+      "name": "SALUR KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39368,
+      "district_id": 538,
+      "name": "SARIKAYA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39369,
+      "district_id": 538,
+      "name": "SARNIÇ MAH (GÖÇER KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39370,
+      "district_id": 538,
+      "name": "SAZLIYAKA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39371,
+      "district_id": 538,
+      "name": "SEKİÇEŞME MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39372,
+      "district_id": 538,
+      "name": "ŞEYH EDEBALİ MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39373,
+      "district_id": 538,
+      "name": "ŞEYH ŞAMİL MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39374,
+      "district_id": 538,
+      "name": "ŞEYHLER KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39375,
+      "district_id": 538,
+      "name": "SEYİTHASAN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39376,
+      "district_id": 538,
+      "name": "SİYAHSER MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39377,
+      "district_id": 538,
+      "name": "SORGUN MAH (YILANGÖMÜ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39378,
+      "district_id": 538,
+      "name": "SÜLEYMANHACI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39379,
+      "district_id": 538,
+      "name": "SÜMER MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39380,
+      "district_id": 538,
+      "name": "TABANLI MAH (AYBASTI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39381,
+      "district_id": 538,
+      "name": "TABDUK EMRE MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39382,
+      "district_id": 538,
+      "name": "TAHSİN ÜNAL MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39383,
+      "district_id": 538,
+      "name": "TARLAÖREN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39384,
+      "district_id": 538,
+      "name": "TAŞMESCİT MAH (TAŞKALE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39385,
+      "district_id": 538,
+      "name": "TAVŞANLI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39386,
+      "district_id": 538,
+      "name": "TOPALHACI CİFTLİĞİ MAH (İHSANİYE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39387,
+      "district_id": 538,
+      "name": "TOPUCAK MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39388,
+      "district_id": 538,
+      "name": "TUTLUTEPE MAH (ÇAVUŞPINARI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39389,
+      "district_id": 538,
+      "name": "ÜÇBAŞ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39390,
+      "district_id": 538,
+      "name": "ULUPINAR MAH (KİSECİK KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39391,
+      "district_id": 538,
+      "name": "ÜNİVERSİTE MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39392,
+      "district_id": 538,
+      "name": "URGAN MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39393,
+      "district_id": 538,
+      "name": "ÜZÜMLÜ MAH (AYBASTI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39394,
+      "district_id": 538,
+      "name": "UZUNKUYU MAH (ÇOĞLU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39395,
+      "district_id": 538,
+      "name": "UZUNKUYU MAH (KAMENİ KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39396,
+      "district_id": 538,
+      "name": "VALİDE SULTAN MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39397,
+      "district_id": 538,
+      "name": "YASSI TEPE MAH (ÜÇKUYU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39398,
+      "district_id": 538,
+      "name": "YAYLADEDE MAH (BAŞKIŞLA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39399,
+      "district_id": 538,
+      "name": "YAZILI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39400,
+      "district_id": 538,
+      "name": "YEDİPINAR MAH (DERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39401,
+      "district_id": 538,
+      "name": "YEMİŞLİ MAH (AYBASTI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39402,
+      "district_id": 538,
+      "name": "YENİMAHALLE MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39403,
+      "district_id": 538,
+      "name": "YENİŞEHİR MAH",
+      "area": "SÜMER",
+      "postal_code": "70100"
+    },
+    {
+      "id": 39404,
+      "district_id": 538,
+      "name": "YEŞİLADA MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39405,
+      "district_id": 538,
+      "name": "YEŞİLDERE TOKİ YUNUS EMRE MAH (YEŞİLDERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39406,
+      "district_id": 538,
+      "name": "YILANGÖMÜ KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39407,
+      "district_id": 538,
+      "name": "YÖRÜKLER MAH (BAŞKIŞLA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39408,
+      "district_id": 538,
+      "name": "YUKARI MAH (İHSANİYE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39409,
+      "district_id": 538,
+      "name": "YUKARI YAYLA MAH (ORTAOBA KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39410,
+      "district_id": 538,
+      "name": "YUKARIAKIN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39411,
+      "district_id": 538,
+      "name": "YUKARIKIZILCA KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39412,
+      "district_id": 538,
+      "name": "YUNUS EMRE MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39413,
+      "district_id": 538,
+      "name": "YUNUS MAH (DERE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39414,
+      "district_id": 538,
+      "name": "YUNUSKENT MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39415,
+      "district_id": 538,
+      "name": "YUVATEPE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39416,
+      "district_id": 538,
+      "name": "ZEMBİLLİ ALİ EFENDİ MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39417,
+      "district_id": 538,
+      "name": "ZENGEN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70202"
+    },
+    {
+      "id": 39418,
+      "district_id": 538,
+      "name": "ZİYA GÖKALP MAH",
+      "area": "HİSAR",
+      "postal_code": "70200"
+    },
+    {
+      "id": 39419,
+      "district_id": 539,
+      "name": "ADİLLER MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39420,
+      "district_id": 539,
+      "name": "BAŞ MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39421,
+      "district_id": 539,
+      "name": "BOYUNAĞIL MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39422,
+      "district_id": 539,
+      "name": "ÇAKILLAR MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39423,
+      "district_id": 539,
+      "name": "ÇETİNCE ÖNÜ MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39424,
+      "district_id": 539,
+      "name": "ÇEVLİK BAŞI MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39425,
+      "district_id": 539,
+      "name": "CİVANDERE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39426,
+      "district_id": 539,
+      "name": "CİVLER KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39427,
+      "district_id": 539,
+      "name": "ÇUKURBAĞ MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39428,
+      "district_id": 539,
+      "name": "ÇULHALAR-KIZILÇUKUR-AŞAĞI SÜVARİ-YUKARI-SİVARI-ALA MAH (DUMLUGÖZE KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39429,
+      "district_id": 539,
+      "name": "CUMHURİYET MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39430,
+      "district_id": 539,
+      "name": "DARAN KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39431,
+      "district_id": 539,
+      "name": "DİKENLİ MAH (DUMLUGÖZE KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39432,
+      "district_id": 539,
+      "name": "DUMLUGÖZE KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39433,
+      "district_id": 539,
+      "name": "ESENTEPE MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39434,
+      "district_id": 539,
+      "name": "GEZİRAİL MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39435,
+      "district_id": 539,
+      "name": "GÖKSU MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39436,
+      "district_id": 539,
+      "name": "GÖKSU MAH (KOÇAŞLI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39437,
+      "district_id": 539,
+      "name": "GÜLPAZAR MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39438,
+      "district_id": 539,
+      "name": "GÜNDER MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39439,
+      "district_id": 539,
+      "name": "HESBEK MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39440,
+      "district_id": 539,
+      "name": "IŞIKLI KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39441,
+      "district_id": 539,
+      "name": "KALE DÖŞEĞİ MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39442,
+      "district_id": 539,
+      "name": "KARAKAYA MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39443,
+      "district_id": 539,
+      "name": "KAYNARCA MAH (UĞURLU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39444,
+      "district_id": 539,
+      "name": "KÜÇÜK KARAPINAR MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39445,
+      "district_id": 539,
+      "name": "MANASTIR MAH (UĞURLU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39446,
+      "district_id": 539,
+      "name": "MENÇEK MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39447,
+      "district_id": 539,
+      "name": "MERKEZ MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39448,
+      "district_id": 539,
+      "name": "MERKEZ MAH (KOÇAŞLI KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39449,
+      "district_id": 539,
+      "name": "NACI ALİ YURDU MAH (UĞURLU KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39450,
+      "district_id": 539,
+      "name": "ORTAKÖY MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39451,
+      "district_id": 539,
+      "name": "PİRELİ",
+      "area": "AŞAKBEL MAH (DUMLUGÖZE KÖYÜ)",
+      "postal_code": "MERKEZKÖYLER"
+    },
+    {
+      "id": 39452,
+      "district_id": 539,
+      "name": "PİRELİ",
+      "area": "AŞAKBEL-GEVEN-DİKENLİ-ORMANLI-ÇUKUR-ÇETİNCY MAH (DUMLUGÖZE KÖYÜ)",
+      "postal_code": "GÖKTEPE"
+    },
+    {
+      "id": 39453,
+      "district_id": 539,
+      "name": "SITMA PINARI MAH (UĞURLU KÖYÜ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39454,
+      "district_id": 539,
+      "name": "TURCALAR MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39455,
+      "district_id": 539,
+      "name": "UĞURLU KÖYÜ",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39456,
+      "district_id": 539,
+      "name": "ULUCAMİ MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39457,
+      "district_id": 539,
+      "name": "YAYLA EVLERİ MAH (KOÇAŞLI KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39458,
+      "district_id": 539,
+      "name": "YAYLALAR MAH (DARAN KÖYÜ)",
+      "area": "MERKEZKÖYLER",
+      "postal_code": "70802"
+    },
+    {
+      "id": 39459,
+      "district_id": 539,
+      "name": "YEŞİLYURT MAH",
+      "area": "SARIVELİLER",
+      "postal_code": "70800"
+    },
+    {
+      "id": 39460,
+      "district_id": 539,
+      "name": "YEŞİLYURT MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    },
+    {
+      "id": 39461,
+      "district_id": 539,
+      "name": "YILDIZ MAH (GÖKTEPE BELDESİ)",
+      "area": "GÖKTEPE",
+      "postal_code": "70810"
+    }
+  ]
+}
