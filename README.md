@@ -14,29 +14,52 @@ Install the package via Composer:
 composer require hakanispirli/laravel-turkey-geo-database
 ```
 
-## Quick Setup (3 Steps)
+## Setup Options
 
-### Step 1: Publish Data Files
+Choose the installation method that fits your needs:
+
+### Option 1: Standard Installation (Most Common)
+
+Use this if you want the default database structure without modifications.
 
 ```bash
+# 1. Publish migrations (creates timestamped migration files)
+php artisan vendor:publish --tag=turkey-geo-migrations
+
+# 2. Publish data files
 php artisan vendor:publish --tag=turkey-geo-data
-```
 
-### Step 2: Run Migrations
-
-```bash
+# 3. Run migrations
 php artisan migrate
-```
 
-This creates three tables: `cities`, `districts`, and `neighborhoods`.
-
-### Step 3: Seed the Database
-
-```bash
+# 4. Seed the database
 php artisan db:seed --class="Webmarka\TurkeyGeo\Database\Seeders\TurkeyGeoSeeder"
 ```
 
-**That's it!** You now have complete Turkish geographic data in your database.
+**That's it!** Your database now contains all Turkish geographic data.
+
+### Option 2: Custom Installation
+
+Use this if you need to modify the database structure (add columns, change types, etc.).
+
+```bash
+# 1. Publish migrations
+php artisan vendor:publish --tag=turkey-geo-migrations
+
+# 2. Customize the migration files in database/migrations/
+# Add your custom columns, indexes, or modifications
+
+# 3. Publish data files
+php artisan vendor:publish --tag=turkey-geo-data
+
+# 4. Run migrations
+php artisan migrate
+
+# 5. Seed the database
+php artisan db:seed --class="Webmarka\TurkeyGeo\Database\Seeders\TurkeyGeoSeeder"
+```
+
+> **💡 Pro Tip**: Migration files are published with current timestamps, so they'll run after your existing migrations without conflicts.
 
 > **⏱️ Seeding Time**: Approximately 30-60 seconds to insert all data with progress tracking.
 
@@ -150,19 +173,9 @@ echo $neighborhood->postal_code; // Postal code
 - `area` - Area/region information
 - `postal_code` - PTT postal code
 
-## Customization
+## Configuration (Optional)
 
-### Publish Migrations (Optional)
-
-If you need to customize the database tables (add columns, change types, etc.):
-
-```bash
-php artisan vendor:publish --tag=turkey-geo-migrations
-```
-
-Then modify the published migration files in your `database/migrations` directory before running `php artisan migrate`.
-
-### Publish Configuration (Optional)
+You can customize table names, seeding batch size, and other options:
 
 ```bash
 php artisan vendor:publish --tag=turkey-geo-config

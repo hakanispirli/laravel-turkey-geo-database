@@ -12,7 +12,6 @@ class TurkeyGeoServiceProvider extends ServiceProvider
     public function boot(): void
     {
         $this->offerPublishing();
-        $this->registerMigrations();
     }
 
     /**
@@ -37,9 +36,11 @@ class TurkeyGeoServiceProvider extends ServiceProvider
                 __DIR__ . '/config/turkey-geo.php' => config_path('turkey-geo.php'),
             ], 'turkey-geo-config');
 
-            // Publish migrations
+            // Publish migrations with dynamic timestamps
             $this->publishes([
-                __DIR__ . '/Database/Migrations' => database_path('migrations'),
+                __DIR__ . '/Database/Migrations/create_cities_table.php.stub' => $this->getMigrationFileName('create_cities_table.php'),
+                __DIR__ . '/Database/Migrations/create_districts_table.php.stub' => $this->getMigrationFileName('create_districts_table.php'),
+                __DIR__ . '/Database/Migrations/create_neighborhoods_table.php.stub' => $this->getMigrationFileName('create_neighborhoods_table.php'),
             ], 'turkey-geo-migrations');
 
             // Publish data files
@@ -50,12 +51,14 @@ class TurkeyGeoServiceProvider extends ServiceProvider
     }
 
     /**
-     * Register the package migrations.
+     * Returns existing migration file name if found, else uses current timestamp.
      */
-    protected function registerMigrations(): void
+    protected function getMigrationFileName(string $migrationFileName): string
     {
-        if ($this->app->runningInConsole()) {
-            $this->loadMigrationsFrom(__DIR__ . '/Database/Migrations');
-        }
+        $timestamp = date('Y_m_d_His');
+
+        $filesystem = $this->app->make('files');
+
+        return database_path('migrations/' . $timestamp . '_' . $migrationFileName);
     }
 }
